@@ -1,0 +1,29 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+setuptools = "*"
+pipenv-setup = "*"
+black = "*"
+v = {editable = true,version = "*"}
+moto = "*"
+
+[packages]
+pathlib = "*"
+gitpython = "*"
+pandas = "*"
+src = {editable = true,path = "."}
+dbt = "*"
+lor-deckcodes = "*"
+scipy = "*"
+matplotlib = "*"
+numpy = "*"
+
+[requires]
+python_version = "3"
+
+[pipenv]
+allow_prereleases = true

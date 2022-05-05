@@ -1,0 +1,700 @@
+code,region,card_name,cost,attack,health,rarity,main_type,subtype,supertype,associated_cards,keywords,description,level_up_description
+01IO012T2,Ionia,Discipline of Fortitude,3,0,0,None,Spell,,,[],['Burst'],Give an ally +0|+3 this round.,
+01NX020T3,Noxus,Draven,3,4,4,None,Unit,,Champion,"['01NX020T1', '01NX020T2', '01NX020']","['QuickStrike', 'Overwhelm']",Play or Strike: Create 2 Spinning Axe in hand.,
+01DE031,Demacia,Dawnspeakers,3,1,4,Epic,Unit,,,[],[],Round End: Grant other allies +1|+1 if an ally died this round.,
+01PZ040T3,PiltoverZaun,Jinx's Get Excited!,3,0,0,None,Spell,,Champion,"['01PZ040', '01PZ040T1']",['Fast'],"To play, discard 1. Deal 3 to anything.
+Shuffle a Jinx into your deck.",
+01FR024T2,Freljord,Glacial Storm,0,0,0,None,Ability,,,"['01FR024', '01FR024T3']",['Skill'],Deal 1 to all enemies and the enemy Nexus.,
+01PZ008T2,PiltoverZaun,Teemo,1,2,2,None,Unit,,Champion,"['01PZ008', '01PZ022', '01PZ008T1']",['Elusive'],Nexus Strike: Double the Poison Puffcaps in the enemy deck.,
+01DE022,Demacia,Lucian,2,3,2,Champion,Unit,,Champion,"['01DE038', '01DE022T1', '01DE022T2']",['QuickStrike'],,"I've seen 4+ allies or an allied Senna, Sentinel of Light die."
+01IO015T1,Ionia,Yasuo,4,5,5,None,Unit,,Champion,"['01IO015', '01IO015T2']",['QuickStrike'],"When you Stun or Recall an enemy, I strike it.",
+01PZ056,PiltoverZaun,Heimerdinger,5,1,3,Champion,Unit,,Champion,"['01PZ056T10', '01PZ056T3', '01PZ056T1', '01PZ056T4', '01PZ056T7', '01PZ056T6', '01PZ056T8', '01PZ056T2', '01PZ056T9', '01PZ056T5', '01PZ015']",['Imbue'],"When you cast a spell, create a Fleeting Turret in hand with equal cost. It costs 0 this round.",I've seen you summon 12+ Power of Turrets.
+01IO020,Ionia,Keeper of Masks,2,2,3,Common,Unit,,,[],[],"When I'm summoned, give other allies +1|+0 this round.",
+01FR039T1,Freljord,Tryndamere's Battle Fury,8,0,0,None,Spell,,Champion,"['01FR039', '01FR039T2']",['Burst'],"Grant an ally +8|+4.
+Shuffle a Tryndamere into your deck.",
+01PZ013,PiltoverZaun,Augmented Experimenter,6,3,3,Epic,Unit,,,['01PZ013T1'],[],Play: Discard your hand. Draw 3. Deal 3 to an enemy unit.,
+01DE019,Demacia,Mobilize,3,0,0,Rare,Spell,,,[],['Burst'],Reduce the cost of allies in hand by 1.,
+01NX004,Noxus,Culling Strike,3,0,0,Rare,Spell,,,[],['Fast'],Kill a unit with 3 or less Power.,
+01PZ007,PiltoverZaun,Parade Electrorig,3,2,4,Common,Unit,,,[],[],Support: Shuffle 4 copies of the supported ally into your deck.,
+01PZ056T10,PiltoverZaun,Heimerdinger,5,2,4,None,Unit,,Champion,"['01PZ056T3', '01PZ056T1', '01PZ056T4', '01PZ056T7', '01PZ056T6', '01PZ056T8', '01PZ056T2', '01PZ056T9', '01PZ056T5', '01PZ015', '01PZ056']",['Imbue'],"When you cast a spell, create a Fleeting Turret in hand with equal cost. Grant it +1|+1 and it costs 0 this round.",
+01SI038,ShadowIsles,Phantom Prankster,3,0,3,Rare,Unit,,,[],[],"When another ally dies, deal 1 to the enemy Nexus.",
+01DE042T1,Demacia,Lux's Prismatic Barrier,3,0,0,None,Spell,,Champion,"['01DE042', '01DE042T2']",['Burst'],"Give an ally Barrier this round.
+Shuffle a Lux into your deck.",
+01PZ018,PiltoverZaun,Academy Prodigy,2,3,1,Common,Unit,,,[],['QuickStrike'],,
+01IO045,Ionia,Herald of Spring,2,2,2,Common,Unit,,,[],[],Support: Give my supported ally Lifesteal this round.,
+01IO008,Ionia,Fae Bladetwirler,2,1,3,Rare,Unit,,,[],['QuickStrike'],"When you Stun or Recall a unit, grant me +2|+0.",
+01NX048,Noxus,Crimson Curator,3,3,3,Common,Unit,,,"['01NX030', '01NX005', '01NX048', '01NX032']",[],"When I survive damage, create a random Crimson unit in your hand.",
+01FR006,Freljord,Iceborn Legacy,5,0,0,Common,Spell,,,[],['Slow'],Grant an ally and all allied copies of it everywhere +2|+2.,
+01IO022,Ionia,Ghost,1,0,0,Common,Spell,,,[],['Burst'],Give an ally Elusive this round.,
+01FR022,Freljord,Omen Hawk,1,1,1,Common,Unit,,,[],[],"When I'm summoned, grant the top 2 allies in your deck +1|+1.",
+01FR042,Freljord,Harsh Winds,6,0,0,Rare,Spell,,,[],['Burst'],Frostbite 2 enemies. ,
+01SI049,ShadowIsles,Glimpse Beyond,2,0,0,Common,Spell,,,[],['Fast'],Kill an ally to draw 2.,
+01SI053T1,ShadowIsles,Elise's Crawling Sensation,1,0,0,None,Spell,,Champion,"['01SI002', '01SI053', '01SI053T2']",['Slow'],"If an ally died this round, summon 2 Spiderlings.
+Shuffle a Elise into your deck.",
+01FR009,Freljord,Braum,3,0,5,Champion,Unit,,Champion,"['01FR009T1', '01FR009T2', '01FR053']","['Challenger', 'Regeneration']",,I've survived 10 total damage.
+01SI057,ShadowIsles,Ancient Crocolith,4,7,7,Rare,Unit,,,[],[],"To play me, kill 2 allies.",
+01DE010,Demacia,Swiftwing Lancer,5,5,4,Rare,Unit,,,[],"['LastBreath', 'Challenger']",LastBreath: Create a random Elite in hand.,
+01SI023,ShadowIsles,Soul Shepherd,2,2,3,Common,Unit,,,[],[],"When you summon an Ephemeral ally, grant it +1|+1.",
+01PZ019,PiltoverZaun,Eager Apprentice,2,2,1,Common,Unit,,,[],[],"When I'm summoned, refill 2 spell mana.",
+01NX038,Noxus,Darius,6,6,5,Champion,Unit,,Champion,"['01NX038T2', '01NX038T1']",['Overwhelm'],,I see the enemy Nexus has 10 or less Health.
+01IO040,Ionia,Kinkou Lifeblade,4,2,2,Common,Unit,,,[],"['Lifesteal', 'Elusive']",,
+01FR018,Freljord,Rimefang Wolf,3,3,2,Rare,Unit,,,[],['Challenger'],"Strike: If I struck a unit with 0 Power, kill it.",
+01DE020,Demacia,Vanguard Defender,2,2,2,Common,Unit,ELITE,,[],['Tough'],,
+01DE034,Demacia,Battlesmith,2,2,2,Rare,Unit,,,[],[],"When you summon an Elite, grant it +1|+1.",
+01DE002,Demacia,Tianna Crownguard,8,7,7,Epic,Unit,,,[],['Tough'],"When I'm summoned, Rally.",
+01NX023,Noxus,Arachnoid Host,5,5,3,Rare,Unit,SPIDER,,[],[],"When I'm summoned, grant other Spider allies +2|+0.",
+01IO041T1,Ionia,Karma,5,5,4,None,Unit,,Champion,"['01IO041', '01IO041T2']",['Imbue'],"When you play a spell, cast it again on the same targets.",
+01DE012T1,Demacia,Garen,5,6,6,None,Unit,ELITE,Champion,"['01DE012', '01DE012T2']",['Regeneration'],Round Start: Rally.,
+01DE017,Demacia,Stand Alone,3,0,0,Rare,Spell,,,[],['Burst'],"If you have exactly 1 ally, grant it +3|+3.",
+01PZ040,PiltoverZaun,Jinx,4,4,3,Champion,Unit,,Champion,"['01PZ040T2', '01PZ040T1', '01PZ040T3']",['QuickStrike'],,I see your hand is empty.
+01NX013,Noxus,Decisive Maneuver,5,0,0,Rare,Spell,,,[],['Fast'],Stun an enemy. Give all allies +2|+0 this round.,
+01DE045,Demacia,Fiora,3,3,3,Champion,Unit,,Champion,"['01DE045T1', '01DE045T2']",['Challenger'],,I've killed 2 enemies.
+01PZ025,PiltoverZaun,Puffcap Peddler,3,3,3,Common,Unit,,,['01PZ022'],['Imbue'],"When you cast a spell, plant 3 Poison Puffcaps on random cards in the enemy deck.",
+01DE052,Demacia,Brightsteel Formation,9,9,9,Epic,Unit,,,[],[],Play or Attack: Give all allies Barrier this round.,
+01PZ040T2,PiltoverZaun,Super Mega Death Rocket!,2,0,0,None,Spell,,,['01PZ040T1'],"['Slow', 'Fleeting']",Deal 4 to the enemy nexus and 1 to all other enemies. Fleeting.,
+01SI053,ShadowIsles,Elise,2,2,3,Champion,Unit,SPIDER,Champion,"['01SI053T2', '01SI053T1', '01SI002']",['Fearsome'],Attack: Summon an attacking Spiderling.,Round Start: You have 3+ other Spiders.
+01DE021,Demacia,Relentless Pursuit,3,0,0,Common,Spell,,,[],['Fast'],Rally.,
+01PZ048T1,PiltoverZaun,Magnum Opus,0,0,0,None,Ability,,,[],['Skill'],Obliterate the top 5 cards of your deck to deal 1 to all enemies for each spell obliterated.,
+01NX046T1,Noxus,Paralyzing Bite,0,0,0,None,Ability,,,[],['Skill'],Stun an enemy.,
+01NX047,Noxus,Transfusion,2,0,0,Common,Spell,,,[],['Burst'],Deal 1 to an ally to give another ally +2|+2 this round.,
+01SI010,ShadowIsles,Onslaught of Shadows,2,0,0,Common,Spell,,,['01SI024'],['Slow'],Summon 2 Spectral Riders.,
+01NX040,Noxus,Legion Saboteur,1,2,1,Common,Unit,,,['01NX040T1'],[],Attack: Deal 1 to the enemy Nexus.,
+01SI042T1,ShadowIsles,Hecarim,6,5,6,None,Unit,,Champion,"['01SI042', '01SI042T2', '01SI024']",['Overwhelm'],"Ephemeral allies have +3|+0.
+Attack: Summon 2 attacking Spectral Riders.",
+01PZ032,PiltoverZaun,Scrap Scuttler,1,1,1,None,Unit,,,[],[],,
+01IO009T2,Ionia,Zed,3,4,3,None,Unit,,Champion,"['01IO009', '01IO009T3', '01IO009T1']",['QuickStrike'],Attack: Summon an attacking Living Shadow with my stats and keywords.,
+01SI027T1,ShadowIsles,Vilemaw,3,6,6,None,Unit,SPIDER,,[],['Fearsome'],,
+01IO014,Ionia,Greenglade Elder,3,1,1,Common,Unit,,,[],[],"When I'm summoned, grant allies in hand +1|+1.",
+01NX038T2,Noxus,Darius,6,10,5,None,Unit,,Champion,"['01NX038', '01NX038T1']",['Overwhelm'],,
+01DE022T2,Demacia,Lucian's Relentless Pursuit,3,0,0,None,Spell,,Champion,"['01DE022', '01DE022T1']",['Fast'],"Rally.
+Shuffle a Lucian into your deck.",
+01PZ028,PiltoverZaun,Jury-Rig,1,0,0,Common,Spell,,,['01PZ032'],['Burst'],"When cast or discarded, summon a Scrap Scuttler.",
+01DE025,Demacia,Detain,5,0,0,Common,Spell,,,[],['Fast'],An ally Captures a unit.,
+01FR036,Freljord,Avarosan Marksman,3,3,1,Common,Unit,,,['01FR036T1'],[],Play: Deal 1 to an enemy unit.,
+01IO005,Ionia,Nimble Poro,1,1,1,Common,Unit,PORO,,[],['QuickStrike'],,
+01FR045,Freljord,Scarthane Steffen,3,2,4,Common,Unit,,,[],[],"When I survive damage, grant me +3|+0.",
+01IO044,Ionia,Navori Conspirator,2,2,2,Common,Unit,,,[],['Elusive'],"To play me, Recall an ally.",
+01FR008T1,Freljord,Jubilant Poro,1,1,1,None,Unit,PORO,,[],[],"When I'm summoned, create in hand another random 1 cost Poro from any region.",
+01FR055,Freljord,Shatter,2,0,0,Common,Spell,,,[],['Slow'],"Deal 4 to an enemy unit if it has 0 Power. Otherwise, Frostbite it.",
+01FR038T3,Freljord,Crystal Arrow,2,0,0,None,Spell,,,[],['Slow'],Frostbite an enemy and all other enemies with 3 or less Health. Draw 1.,
+01NX046,Noxus,Arachnoid Sentry,3,3,2,Common,Unit,SPIDER,,['01NX046T1'],[],Play: Stun an enemy.,
+01PZ050,PiltoverZaun,Rising Spell Force,3,0,0,Common,Spell,,,[],['Burst'],Give an ally +4|+0 and Quick Attack this round.,
+01PZ056T6,PiltoverZaun,Mk3: Floor-B-Gone,3,3,1,None,Unit,TECH,,[],['Elusive'],,
+01IO023,Ionia,Jeweled Protector,5,4,4,Rare,Unit,,,[],[],Play: Grant an ally in hand +3|+3.,
+01SI048,ShadowIsles,Cursed Keeper,2,1,1,Common,Unit,,,['01SI048T1'],"['CantBlock', 'LastBreath']",Last Breath: Summon an Escaped Abomination.,
+01PZ054T1,PiltoverZaun,Undermine,0,0,0,None,Ability,,,[],['Skill'],Deal 2 to the enemy Nexus.,
+01PZ030T1,PiltoverZaun,Impersonate,0,0,0,Rare,Ability,,,[],['Skill'],Pick a follower. Transform me into an exact copy of it.,
+01NX025,Noxus,Brothers' Bond,2,0,0,Common,Spell,,,[],['Burst'],Grant two allies +2|+0.,
+01NX055,Noxus,House Spider,2,2,2,Common,Unit,SPIDER,,['01SI002'],[],"When I'm summoned, summon a Spiderling.",
+01DE007,Demacia,Judgment,8,0,0,Epic,Spell,,,[],['Fast'],A battling ally strikes all battling enemies.,
+01PZ017,PiltoverZaun,Used Cask Salesman,3,3,2,Common,Unit,,,['01PZ047'],[],"When I'm summoned, summon 2 Caustic Casks.",
+01PZ038,PiltoverZaun,Sump Dredger,2,4,3,Common,Unit,,,[],[],"To play me, discard 1.",
+01PZ056T7,PiltoverZaun,Mk2: Evolution Turret,2,2,1,None,Unit,TECH,,[],['Tough'],,
+01SI018,ShadowIsles,Scribe of Sorrows,3,2,3,Common,Unit,,,[],[],"When I'm summoned, create a copy in hand of an ally that died this game.",
+01PZ008T1,PiltoverZaun,Teemo's Mushroom Cloud,1,0,0,None,Spell,,Champion,"['01PZ008', '01PZ008T2', '01PZ022']",['Burst'],"Plant 5 Poison Puffcaps on random cards in the enemy deck.
+Shuffle a Teemo into your deck.",
+01SI030T2,ShadowIsles,Kalista,3,5,4,None,Unit,,Champion,"['01SI030', '01SI030T1']",['Fearsome'],"Each round, the first time I attack revive an attacking Ephemeral copy of the Strongest dead allied follower. This round, we're bonded and it takes damage for me.",
+01FR029,Freljord,Entreat,2,0,0,Rare,Spell,,,[],['Burst'],Draw a champion.,
+01SI035T1,ShadowIsles,Night Harvest,0,0,0,None,Ability,,,[],['Skill'],Kill the 2 Weakest enemies if an ally died this round.,
+01SI030,ShadowIsles,Kalista,3,4,3,Champion,Unit,,Champion,"['01SI030T2', '01SI030T1']",['Fearsome'],,I've seen 3+ allies die.
+01IO029,Ionia,Sown Seeds,2,0,0,Rare,Spell,,,[],['Burst'],Grant allies in hand +1|+0.,
+01PZ036T1,PiltoverZaun,Ezreal,3,2,4,None,Unit,,Champion,"['01PZ052', '01PZ036', '01PZ036T2']","['Elusive', 'Imbue']","Nexus Strike: Create a Fleeting Mystic Shot in hand.
+When you cast a spell, deal 2 to the enemy Nexus.",
+01FR035,Freljord,Unscarred Reaver,1,0,3,Common,Unit,,,[],[],"When I survive damage, grant me +3|+0.",
+01IO003,Ionia,Death Mark,3,0,0,Rare,Spell,,,[],['Fast'],Remove Ephemeral from an ally to grant it to an enemy.,
+01PZ035,PiltoverZaun,Jae Medarda,8,6,6,Epic,Unit,,,[],['Elusive'],"When I'm targeted, draw 1.",
+01PZ030,PiltoverZaun,Shady Character,4,1,3,Rare,Unit,,,['01PZ030T1'],[],Play: Pick a follower. Transform me into an exact copy of it.,
+01IO047,Ionia,Shadow Flare,6,0,0,Epic,Spell,,,[],['Fast'],Grant ALL battling followers Ephemeral.,
+01PZ048,PiltoverZaun,Corina Veraza,9,6,6,Epic,Unit,,,['01PZ048T1'],[],Play: Obliterate the top 5 cards of your deck to deal 1 to all enemies for each spell obliterated.,
+01FR012,Freljord,Catalyst of Aeons,5,0,0,Common,Spell,,,[],['Burst'],Get an empty mana gem and heal your Nexus 3.,
+01NX020T2,Noxus,Draven's Whirling Death,3,0,0,None,Spell,,Champion,"['01NX020', '01NX020T3']",['Fast'],"A battling ally strikes a battling enemy.
+Shuffle a Draven into your deck.",
+01NX030,Noxus,Crimson Disciple,2,2,3,Rare,Unit,,,[],[],"When I survive damage, deal 2 to the enemy Nexus.",
+01FR028,Freljord,Enraged Yeti,1,5,5,None,Unit,YETI,,[],[],,
+01PZ010,PiltoverZaun,Mushroom Cloud,1,0,0,Common,Spell,,,['01PZ022'],['Burst'],Plant 5 Poison Puffcaps on random cards in the enemy deck.,
+01NX007,Noxus,Arena Battlecaster,2,2,2,Rare,Unit,,,[],[],Attack: Give other battling allies +1|+0 this round.,
+01PZ045,PiltoverZaun,Zaunite Urchin,1,2,1,Common,Unit,,,[],['LastBreath'],"To play me, discard 1.
+Last Breath: Draw 1.",
+01IO026,Ionia,Inspiring Mentor,1,1,2,Common,Unit,,,[],[],Play: Grant an ally in hand +1|+0.,
+01PZ013T1,PiltoverZaun,Reckless Research,0,0,0,None,Ability,,,[],['Skill'],Discard your hand. Draw 3. Deal 3 to an enemy unit.,
+01PZ002,PiltoverZaun,Back Alley Barkeep,4,3,2,Common,Unit,,,[],[],"When I'm summoned, create a random card in hand for each Back Alley Barkeep you've summoned this game. ",
+01SI002,ShadowIsles,Spiderling,1,1,1,None,Unit,SPIDER,,[],[],,
+01SI005,ShadowIsles,Scuttlegeist,10,5,5,Rare,Unit,,,[],['Fearsome'],Reduce my cost by 1 for each ally that died this game.,
+01FR038,Freljord,Ashe,4,5,3,Champion,Unit,,Champion,"['01FR038T2', '01FR038T1', '01FR038T3']",[],Attack: Frostbite the Strongest enemy.,"You Frostbite 5+ enemies. When I level up, create a Crystal Arrow on top of deck."
+01DE055,Demacia,Laurent Duelist,3,4,2,Common,Unit,,,[],[],Play: Give an ally Challenger this round.,
+01PZ004,PiltoverZaun,Trueshot Barrage,7,0,0,Epic,Spell,,,[],['Slow'],"Deal 3 to an enemy or the enemy Nexus, 2 to another, and 1 to another.",
+01DE048,Demacia,Mageseeker Inciter,4,4,3,Rare,Unit,,,[],[],Grant me +2|+2 once you've cast a 6+ cost spell this game.,
+01IO024,Ionia,Dawn and Dusk,6,0,0,Rare,Spell,,,[],['Slow'],Summon 2 exact copies of an ally. They're Ephemeral.,
+01SI053T2,ShadowIsles,Spider Queen Elise,2,4,3,None,Unit,SPIDER,Champion,"['01SI053T1', '01SI053']","['Fearsome', 'Challenger']",Other Spider allies have Challenger and Fearsome.,
+01DE001,Demacia,Vanguard Bannerman,4,3,3,Rare,Unit,ELITE,,[],[],Allegiance: Grant other allies +1|+1.,
+01PZ020,PiltoverZaun,Daring Poro,1,1,1,Common,Unit,PORO,,[],['Elusive'],,
+01NX021,Noxus,Legion Marauder,3,3,2,Common,Unit,,,[],[],Attack: Grant allied Legion Marauders everywhere +1|+1.,
+01FR020,Freljord,Avalanche,4,0,0,Rare,Spell,,,[],['Slow'],Deal 2 to ALL units.,
+01PZ046,PiltoverZaun,Counterfeit Copies,1,0,0,Rare,Spell,,,[],['Burst'],Pick a card in hand. Shuffle 4 exact copies of it into your deck.,
+01IO028,Ionia,Scaled Snapper,3,2,2,Common,Unit,,,[],[],Play: Grant me +3|+0 or +0|+3.,
+01FR014,Freljord,Yeti Yearling,1,1,2,Common,Unit,YETI,,['01FR028'],['LastBreath'],Last Breath: Shuffle 2 Enraged Yetis into your deck.,
+01SI037,ShadowIsles,Sinister Poro,1,1,1,Common,Unit,PORO,,[],['Fearsome'],,
+01NX009,Noxus,Crowd Favorite,4,2,1,Rare,Unit,,,[],['Overwhelm'],"When I'm summoned, grant me +1|+1 for each other ally you have.",
+01IO057,Ionia,Shadow Assassin,3,2,2,Common,Unit,,,[],['Elusive'],"When I'm summoned, draw 1.",
+01IO028T2,Ionia,Scaled Snapper,3,5,2,None,Unit,,,[],[],,
+01PZ054,PiltoverZaun,Boomcrew Rookie,2,1,4,Common,Unit,,,['01PZ054T1'],[],Attack: Deal 2 to the enemy Nexus.,
+01NX020,Noxus,Draven,3,3,3,Champion,Unit,,Champion,"['01NX020T1', '01NX020T3', '01NX020T2']",['QuickStrike'],Play or Strike: Create a Spinning Axe in hand.,I've struck with two total Spinning Axe.
+01PZ052,PiltoverZaun,Mystic Shot,2,0,0,Common,Spell,,,[],['Fast'],Deal 2 to anything.,
+01FR024T1,Freljord,Anivia's Harsh Winds,6,0,0,None,Spell,,Champion,"['01FR024', '01FR024T3', '01FR024T4']",['Burst'],"Frostbite 2 enemies.
+Shuffle an Anivia into your deck.",
+01DE043,Demacia,War Chefs,2,2,3,Common,Unit,,,[],[],Support: Give my supported ally +1|+1 this round.,
+01PZ036,PiltoverZaun,Ezreal,3,1,3,Champion,Unit,,Champion,"['01PZ052', '01PZ036T1', '01PZ036T2']",['Elusive'],Nexus Strike: Create a Fleeting Mystic Shot in hand.,You've targeted enemy units 8+ times.
+01IO028T1,Ionia,Scaled Snapper,3,2,5,None,Unit,,,[],[],,
+01SI048T1,ShadowIsles,Escaped Abomination,2,4,4,None,Unit,,,[],[],,
+01PZ015,PiltoverZaun,T-Hex,8,8,8,None,Unit,TECH,,[],[],,
+01NX053,Noxus,Reckoning,6,0,0,Epic,Spell,,,[],['Slow'],"If you have a 5+ Power ally, kill ALL units with 4 or less Power.",
+01PZ005,PiltoverZaun,Hextech Transmogulator,6,0,0,Rare,Spell,,,[],['Fast'],Transform a follower into another follower.,
+01NX038T1,Noxus,Darius's Decimate,5,0,0,None,Spell,,Champion,"['01NX038', '01NX038T2']",['Slow'],"Deal 4 to the enemy Nexus.
+Shuffle a Darius into your deck.",
+01SI052,ShadowIsles,Thresh,5,3,6,Champion,Unit,,Champion,"['01SI052T1', '01SI052T2']",['Challenger'],,I've seen 6+ units die.
+01DE022T1,Demacia,Lucian,2,4,3,None,Unit,,Champion,"['01DE022', '01DE022T2']",['DoubleStrike'],"Each round, the first time an ally dies, Rally.",
+01DE049,Demacia,Plucky Poro,1,1,1,Common,Unit,PORO,,[],['Tough'],,
+01DE012T2,Demacia,Garen's Judgment,8,0,0,None,Spell,,Champion,"['01DE012', '01DE012T1']",['Fast'],"A battling ally strikes all battling enemies.
+Shuffle a Garen into your deck.",
+01SI033,ShadowIsles,Commander Ledros,9,9,6,Epic,Unit,,,['01SI033T1'],"['Fearsome', 'LastBreath']","Play: Deal damage to the enemy Nexus equal to half its Health, rounded up.
+Last Breath: Return me to hand.",
+01PZ021,PiltoverZaun,Midenstokke Henchmen,5,5,3,Rare,Unit,,,[],[],Nexus Strike: Summon an exact copy of me.,
+01SI003,ShadowIsles,The Harrowing,10,0,0,Epic,Spell,,,[],['Slow'],Revive the 6 Strongest allies that died this game and grant them Ephemeral.,
+01SI041,ShadowIsles,The Undying,3,2,2,Epic,Unit,,,[],"['CantBlock', 'LastBreath']",Last Breath: Revive me next Round Start and grant me +1|+1 for each time I've died. ,
+01NX040T1,Noxus,Sabotage,0,0,0,None,Ability,,,[],['Skill'],Deal 1 to the enemy Nexus.,
+01FR049,Freljord,Stalking Wolf,2,3,2,Common,Unit,,,['01FR049T1'],['Challenger'],"When I'm summoned, the enemy summons a Snow Hare.",
+01IO032T1,Ionia,Shen,4,3,6,None,Unit,,Champion,"['01IO032T2', '01IO032']",[],"Support: Give my supported ally Barrier.
+When an ally gets Barrier, give it +3|+0 this round.",
+01DE053,Demacia,Laurent Chevalier,4,3,1,Epic,Unit,,,[],['Challenger'],Strike: Create another random Challenger follower in hand.,
+01SI045,ShadowIsles,Absorb Soul,1,0,0,Common,Spell,,,[],['Fast'],Drain 4 from an ally unit.,
+01FR037,Freljord,Avarosan Outriders,4,3,3,Rare,Unit,,,[],['Overwhelm'],Allegiance: Grant the top ally in your deck +3|+3 and Overwhelm.,
+01SI036,ShadowIsles,Crawling Sensation,1,0,0,Common,Spell,,,['01SI002'],['Slow'],"If an ally died this round, summon 2 Spiderlings.",
+01FR009T1,Freljord,Braum,3,0,7,None,Unit,,Champion,"['01FR053', '01FR009T2', '01FR009']","['Challenger', 'Regeneration']","When I survive damage, summon a Mighty Poro.",
+01IO013,Ionia,Shadow Fiend,1,4,3,Common,Unit,,,[],['Ephemeral'],,
+01PZ031,PiltoverZaun,Statikk Shock,4,0,0,Rare,Spell,,,[],['Fast'],"Deal 1 to an enemy or the enemy Nexus, and 1 to another.
+Draw 1.",
+01SI024,ShadowIsles,Spectral Rider,2,2,2,None,Unit,,,[],['Ephemeral'],,
+01SI051,ShadowIsles,Tortured Prodigy,5,4,4,Rare,Unit,,,[],[],"When an ally dies, refill your spell mana.",
+01FR026,Freljord,Alpha Wildclaw,6,7,6,Common,Unit,,,[],['Overwhelm'],,
+01NX054,Noxus,Intimidating Roar,5,0,0,Rare,Spell,,,[],['Slow'],Stun all enemies with 4 or less Power.,
+01NX006T2,Noxus,Crimson Pact,0,0,0,None,Ability,,,['01NX006'],['Skill'],"For each attacking ally other than Vladimir, deal 1 to it and 1 to the enemy Nexus.",
+01PZ059,PiltoverZaun,Golden Crushbot,3,2,5,Common,Unit,,,[],[],,
+01NX029,Noxus,Legion Veteran,4,4,5,Epic,Unit,,,[],[],"When another ally survives damage, grant it +1|+0.",
+01FR030,Freljord,Brittle Steel,1,0,0,Common,Spell,,,[],['Burst'],Frostbite an enemy with 3 or less Health.,
+01NX014,Noxus,Shiraza the Blade,4,3,3,Epic,Unit,,,[],[],I deal double damage to the Nexus.,
+01SI012,ShadowIsles,Oblivious Islander,1,2,1,Common,Unit,,,[],[],Play: Grant an ally in hand Ephemeral and reduce its cost by 1.,
+01SI052T2,ShadowIsles,Thresh's The Box,4,0,0,None,Spell,,Champion,"['01SI052', '01SI052T1']",['Fast'],"Deal 3 to each enemy that was summoned this round.
+Shuffle a Thresh into your deck.",
+01PZ001,PiltoverZaun,Rummage,1,0,0,Common,Spell,,,[],['Burst'],"Discard 2 to draw 2.
+If you have exactly 1 other card in hand, discard 1 to draw 1.",
+01NX042T2,Noxus,Katarina,4,4,3,None,Unit,,Champion,"['01NX042', '01NX042T1']",['QuickStrike'],"Play: Rally.
+Strike: Recall me.",
+01FR013,Freljord,Scarmother Vrynna,6,3,8,Epic,Unit,,,[],['Overwhelm'],"When I survive damage, grant me +3|+0.",
+01PZ057,PiltoverZaun,Scrapdash Assembly,2,0,0,Common,Spell,,,['01PZ032'],['Slow'],Summon 2 Scrap Scuttlers.,
+01SI031,ShadowIsles,Iron Harbinger,3,2,4,Rare,Unit,,,[],['Fearsome'],Attack: Grant me +1|+0 for each Ephemeral ally in play.,
+01SI034,ShadowIsles,Black Spear,3,0,0,Common,Spell,,,[],['Fast'],"If an ally died this round, deal 3 to a unit.",
+01SI043,ShadowIsles,Hapless Aristocrat,1,1,1,Common,Unit,,,['01SI002'],['LastBreath'],Last Breath: Summon a Spiderling.,
+01IO018,Ionia,Rush,1,0,0,Common,Spell,,,[],['Burst'],Give an ally +1|+0 and Quick Attack this round.,
+01PZ056T3,PiltoverZaun,Heimerdinger's Progress Day!,8,0,0,None,Spell,,Champion,"['01PZ056', '01PZ056T10']",['Burst'],"Draw 3, then reduce those cards' costs by 1.
+Shuffle a Heimerdinger into your deck.",
+01FR019,Freljord,Winter's Breath,7,0,0,Epic,Spell,,,[],['Slow'],"Kill all enemies with 0 Power, then Frostbite all enemies.",
+01DE033,Demacia,Remembrance,6,0,0,Rare,Spell,,,[],['Slow'],Costs 1 less for each ally that died this round. Summon a random 5 cost follower from Demacia.,
+01SI009,ShadowIsles,Stirred Spirits,2,3,2,Common,Unit,,,[],[],Support: Grant my supported ally +2|+0 and Ephemeral.,
+01PZ027,PiltoverZaun,Thermogenic Beam,0,0,0,Rare,Spell,,,[],['Slow'],"To play, spend all your mana.
+Deal that much to a unit.",
+01DE045T1,Demacia,Fiora,3,4,4,None,Unit,,Champion,"['01DE045T2', '01DE045']",['Challenger'],"When I've killed 4 enemies and survived, you win the game. ",
+01FR041,Freljord,Avarosan Hearthguard,5,5,5,Epic,Unit,,,[],[],"When I'm summoned, grant allies in your deck +1|+1.",
+01NX051,Noxus,Captain Farron,8,8,8,Epic,Unit,,,['01NX002'],['Overwhelm'],Play: Replace your hand with Decimates.,
+01FR025,Freljord,Poro Herder,4,3,4,Rare,Unit,,,[],[],"When I'm summoned, draw 2 Poros if you have a Poro ally.",
+01DE042T2,Demacia,Lux,6,5,6,None,Unit,,Champion,"['01DE042', '01DE042T1', '01DE042T3']",['Barrier'],"When I see you cast 6+ mana of spells, create a Final Spark in hand. ",
+01NX012,Noxus,Legion Rearguard,1,3,2,Common,Unit,,,[],['CantBlock'],,
+01DE024,Demacia,Mageseeker Conservator,1,1,1,Common,Unit,,,[],['LastBreath'],Last Breath: Create in hand a 6+ cost spell from a region other than Demacia.,
+01SI007T1,ShadowIsles,Unleashed Spirit,1,1,1,None,Unit,,,[],['Ephemeral'],,
+01DE056,Demacia,Vanguard Firstblade,4,2,2,Common,Unit,ELITE,,[],[],Attack: Grant me +2|+2.,
+01NX043,Noxus,Blade's Edge,1,0,0,Common,Spell,,,[],['Fast'],Deal 1 to anything.,
+01DE030,Demacia,Silverwing Diver,4,2,3,Common,Unit,,,[],"['Elusive', 'Tough']",,
+01IO056T1,Ionia,Staggering Strikes,0,0,0,None,Ability,,,[],['Skill'],Stun 2 enemies.,
+01SI030T1,ShadowIsles,Kalista's Black Spear,3,0,0,None,Spell,,Champion,"['01SI030', '01SI030T2']",['Fast'],"If an ally died this round, deal 3 to a unit.
+Shuffle a Kalista into your deck.",
+01NX037,Noxus,Legion Grenadier,2,3,1,Common,Unit,,,[],['LastBreath'],Last Breath: Deal 2 to the enemy Nexus.,
+01NX002,Noxus,Decimate,5,0,0,Rare,Spell,,,[],['Slow'],Deal 4 to the enemy Nexus.,
+01IO016,Ionia,Zephyr Sage,6,4,4,Rare,Unit,,,[],[],Play: Create an exact copy of a card in hand.,
+01SI056,ShadowIsles,Frenzied Skitterer,3,3,2,Rare,Unit,SPIDER,,[],['Fearsome'],"When I'm summoned, give other allied Spiders +1|+0 and enemies -1|-0 this round.",
+01NX010,Noxus,Legion General,5,4,4,Common,Unit,,,[],['Fearsome'],"When I'm summoned, grant me +1|+1 for each unit you've Stunned or Recalled this game. ",
+01NX017,Noxus,Legion Drummer,2,3,2,Common,Unit,,,[],[],Support: Give my supported ally Quick Attack this round.,
+01DE004,Demacia,Silverwing Vanguard,4,2,1,Common,Unit,ELITE,,[],['Challenger'],"When I'm summoned, summon an exact copy of me.",
+01SI001,ShadowIsles,Vengeance,7,0,0,Common,Spell,,,[],['Fast'],Kill a unit.,
+01DE011,Demacia,Laurent Protege,3,2,4,Common,Unit,,,[],['Challenger'],,
+01IO036,Ionia,Greenglade Lookout,2,2,1,Common,Unit,,,[],[],Strike: Reduce the cost of the most expensive unit in your hand by 1.,
+01PZ055,PiltoverZaun,Astute Academic,1,1,2,Common,Unit,,,[],[],"When you draw a card, give me +1|+0 this round.",
+01PZ008,PiltoverZaun,Teemo,1,1,1,Champion,Unit,,Champion,"['01PZ008T2', '01PZ022', '01PZ008T1']",['Elusive'],Nexus Strike: Plant 5 Poison Puffcaps on random cards in the enemy deck.,You've planted 15+ Poison Puffcaps.
+01PZ056T2,PiltoverZaun,Mk5: Rocket Blaster,5,5,1,None,Unit,TECH,,[],['QuickStrike'],,
+01PZ014,PiltoverZaun,Unlicensed Innovation,6,0,0,Common,Spell,,,['01PZ014T1'],['Slow'],Summon an Illegal Contraption.,
+01DE047,Demacia,Succession,3,0,0,Common,Spell,,,['01DE016'],['Slow'],Summon a Dauntless Vanguard.,
+01NX003,Noxus,Arena Bookie,3,2,1,Rare,Unit,,,[],[],Round Start: Discard your lowest cost card to draw 1.,
+01NX011,Noxus,Whirling Death,3,0,0,Common,Spell,,,[],['Fast'],A battling ally strikes a battling enemy.,
+01DE046,Demacia,Vanguard Lookout,2,1,4,Common,Unit,ELITE,,[],[],,
+01FR054,Freljord,Scarmaiden Reaver,5,4,5,Rare,Unit,,,[],"['Overwhelm', 'Regeneration']",,
+01DE050,Demacia,Purify,2,0,0,Common,Spell,,,[],['Burst'],Silence a follower.,
+01FR021T1,Freljord,Tarkaz's Fury,0,0,0,None,Ability,,,[],['Skill'],Deal 1 to ALL battling units.,
+01FR043,Freljord,Heart of the Fluft,6,4,4,Rare,Unit,PORO,,['01FR043T1'],[],"Play: Combine all of our Poros into a Fluft of Poros, it gains their stats and keywords.",
+01FR049T1,Freljord,Snow Hare,1,1,1,None,Unit,,,[],[],,
+01FR033,Freljord,Wyrding Stones,3,0,4,Common,Unit,,,[],[],Round Start: Get an extra mana gem this round.,
+01SI019,ShadowIsles,The Box,4,0,0,Rare,Spell,,,[],['Fast'],Deal 3 to each enemy that was summoned this round.,
+01DE042T3,Demacia,Final Spark,0,0,0,None,Spell,,,[],"['Slow', 'SpellOverwhelm', 'Fleeting']",Deal 4 to an enemy unit. Fleeting.,
+01IO033,Ionia,Minah Swiftfoot,9,6,5,Epic,Unit,,,['01IO033T1'],[],Play: Recall 3 enemies.,
+01NX039,Noxus,Vision,3,0,0,Rare,Spell,,,[],['Burst'],"When cast or discarded, grant allies +1|+0.",
+01FR011,Freljord,Icevale Archer,2,3,1,Common,Unit,,,[],[],Play: Frostbite an enemy.,
+01PZ034,PiltoverZaun,Sumpsnipe Scavenger,4,4,3,Rare,Unit,,,['01PZ026'],[],Allegiance: Create a Sumpworks Map in hand. It costs 0 this round.,
+01FR004,Freljord,Elixir of Iron,1,0,0,Common,Spell,,,[],['Burst'],Give an ally +0|+2 this round.,
+01FR050,Freljord,Kindly Tavernkeeper,3,2,3,Common,Unit,,,[],[],Play: Heal an ally or your Nexus 3.,
+01PZ014T1,PiltoverZaun,Illegal Contraption,6,5,5,None,Unit,,,[],[],,
+01NX041,Noxus,Trifarian Shieldbreaker,5,6,5,Common,Unit,,,[],['Fearsome'],,
+01FR039T2,Freljord,Tryndamere,8,9,9,None,Unit,,Champion,"['01FR039', '01FR039T1']","['Overwhelm', 'Fearsome']",,
+01FR038T2,Freljord,Ashe,4,6,4,None,Unit,,Champion,"['01FR038T3', '01FR038T1', '01FR038']",[],"Attack: Frostbite the Strongest enemy.
+Enemies with 0 Power can't block.",
+01PZ060,PiltoverZaun,Accelerated Purrsuit,5,0,0,Epic,Spell,,,['01PZ033T1'],['Slow'],"If you've played 15 cards with different names this game, summon Catastrophe. ",
+01IO015,Ionia,Yasuo,4,4,4,Champion,Unit,,Champion,"['01IO015T1', '01IO015T2']",['QuickStrike'],"When you Stun or Recall an enemy, I deal 2 to it.",You Stun or Recall 5+ units.
+01IO001,Ionia,Ritual of Renewal,7,0,0,Rare,Spell,,,[],['Slow'],Heal an ally or your Nexus 7. Draw 1.,
+01DE016,Demacia,Dauntless Vanguard,3,3,3,None,Unit,ELITE,,[],[],,
+01IO010,Ionia,Stand United,6,0,0,Rare,Spell,,,[],['Burst'],Swap two allies. Give them Barrier this round.,
+01IO012,Ionia,Twin Disciplines,3,0,0,Common,Spell,,,[],['Burst'],Give an ally +3|+0 or +0|+3 this round.,
+01FR052T1,Freljord,Balesight,0,0,0,None,Ability,,,[],['Skill'],Obliterate ALL followers with 4 or less Power in play and in hands.,
+01DE040,Demacia,Mageseeker Persuader,2,3,2,Rare,Unit,,,[],[],Grant me +1|+1 and Challenger once you've cast a 6+ cost spell this game.,
+01NX036,Noxus,Minotaur Reckoner,6,6,6,Rare,Unit,,,[],[],Round Start: Stun the Weakest enemy.,
+01NX044,Noxus,Battering Ram,6,0,12,Epic,Unit,,,[],['Overwhelm'],Attack: Grant me +4|+0.,
+01DE036,Demacia,Vanguard Squire,4,3,3,Common,Unit,ELITE,,[],[],"When you summon an Elite, reduce my cost by 1.",
+01SI011,ShadowIsles,Ravenous Butcher,0,3,2,Common,Unit,,,[],[],"To play me, kill an ally.",
+01IO009T3,Ionia,Zed's Shadowshift,3,0,0,None,Spell,,Champion,"['01IO009T1', '01IO009', '01IO009T2']",['Fast'],"Recall an ally to summon a Living Shadow in its place.
+Shuffle a Zed into your deck.",
+01SI042T2,ShadowIsles,Hecarim's Onslaught of Shadows,2,0,0,None,Spell,,Champion,"['01SI042', '01SI042T1', '01SI024']",['Slow'],"Summon 2 Spectral Riders.
+Shuffle a Hecarim into your deck.",
+01DE037,Demacia,Riposte,4,0,0,Rare,Spell,,,[],['Burst'],Give an ally +3|+0 and Barrier this round.,
+01PZ056T5,PiltoverZaun,Mk7: Armored Stomper,7,7,1,None,Unit,TECH,,[],['Barrier'],,
+01SI027,ShadowIsles,Fresh Offerings,3,0,0,Rare,Spell,,,['01SI027T1'],['Slow'],"If 3+ allies have died this round, summon Vilemaw.
+",
+01PZ003,PiltoverZaun,Assembly Bot,3,1,1,Rare,Unit,,,[],['Imbue'],"When you cast a spell, grant me +1|+1.",
+01IO021,Ionia,Windfarer Hatchling,7,4,2,Epic,Unit,,,[],['Elusive'],"When I'm summoned, give other allies +2|+2 this round.",
+01FR016,Freljord,Poro Snax,3,0,0,Common,Spell,,,[],['Burst'],Grant Poro allies everywhere +1|+1.,
+01NX005,Noxus,Crimson Aristocrat,2,2,2,Common,Unit,,,[],[],Play: Deal 1 to an ally and grant it +2|+0.,
+01PZ040T1,PiltoverZaun,Jinx,4,5,4,None,Unit,,Champion,"['01PZ040T2', '01PZ040', '01PZ040T3']",['QuickStrike'],"Round Start: Draw 1.
+Each round, the first time you empty your hand, create a Super Mega Death Rocket! in hand.",
+01FR005,Freljord,Battle Fury,8,0,0,Rare,Spell,,,[],['Burst'],Grant an ally +8|+4.,
+01DE014,Demacia,Reinforcements,8,0,0,Rare,Spell,,,['01DE016'],['Slow'],"Summon 2 Dauntless Vanguards, then grant Elite allies +1|+1.",
+01DE013,Demacia,Chain Vest,1,0,0,Common,Spell,,,[],['Burst'],Grant an ally Tough.,
+01IO009,Ionia,Zed,3,3,2,Champion,Unit,,Champion,"['01IO009T2', '01IO009T3', '01IO009T1']",['QuickStrike'],Attack: Summon an attacking Living Shadow with my stats.,My shadows and I have struck the enemy Nexus twice.
+01NX042T1,Noxus,Katarina's Death Lotus,2,0,0,None,Spell,,Champion,"['01NX042', '01NX042T2']",['Fast'],"Deal 1 to ALL battling units.
+Shuffle a Katarina into your deck.",
+01NX016,Noxus,Trifarian Hopeful,2,3,2,Common,Unit,,,[],[],"When I'm summoned, grant me +2|+0 if you have another Noxus ally.",
+01FR009T2,Freljord,Braum's Take Heart,3,0,0,None,Spell,,Champion,"['01FR009', '01FR009T1']",['Burst'],"Grant a damaged ally +3|+3.
+Shuffle a Braum into your deck.",
+01SI014,ShadowIsles,Mistwraith,2,2,2,Common,Unit,,,[],['Fearsome'],"When I'm summoned, grant other allied Mistwraiths everywhere +1|+0.",
+01NX027,Noxus,Elixir of Wrath,1,0,0,Common,Spell,,,[],['Burst'],Give an ally +3|+0 this round.,
+01IO027,Ionia,Silent Shadowseer,2,3,1,Epic,Unit,,,[],"['Elusive', 'Ephemeral']",Nexus Strike: Create a copy of me in hand.,
+01SI007,ShadowIsles,Haunted Relic,2,0,0,Common,Spell,,,['01SI007T1'],['Slow'],Summon 3 Unleashed Spirits.,
+01SI022,ShadowIsles,Mark of the Isles,1,0,0,Common,Spell,,,[],['Burst'],Grant an ally +2|+2 and Ephemeral.,
+01IO032,Ionia,Shen,4,2,5,Champion,Unit,,Champion,"['01IO032T1', '01IO032T2']",[],Support: Give my supported ally Barrier.,I've seen allies gain Barrier 4+ times.
+01NX015,Noxus,Precious Pet,1,2,1,Common,Unit,SPIDER,,[],['Fearsome'],,
+01SI054,ShadowIsles,Grasp of the Undying,5,0,0,Common,Spell,,,[],['Fast'],Drain 3 from a unit.,
+01PZ044,PiltoverZaun,Chempunk Shredder,5,5,2,Rare,Unit,,,['01PZ044T2'],[],Play: Deal 1 to all enemy units.,
+01FR008,Freljord,Lonely Poro,1,1,1,Common,Unit,PORO,,[],[],"When I'm summoned, create in hand another random 1 cost Poro from any region.",
+01IO041,Ionia,Karma,5,4,3,Champion,Unit,,Champion,"['01IO041T1', '01IO041T2']",[],Round End: Create a random spell in hand.,You're Enlightened.
+01SI006,ShadowIsles,Possession,5,0,0,Rare,Spell,,,[],['Slow'],Steal an enemy follower this round. (Can't play if you have 6 allies already.),
+01DE015,Demacia,Radiant Guardian,5,5,5,Rare,Unit,,,[],[],"When I'm summoned, grant me Lifesteal and Tough if an ally died this round.",
+01PZ029,PiltoverZaun,Eminent Benefactor,4,3,3,Rare,Unit,,,[],['LastBreath'],Last Breath: Create a random Epic card in hand.,
+01NX050,Noxus,Death Lotus,2,0,0,Rare,Spell,,,[],['Fast'],Deal 1 to ALL battling units.,
+01PZ056T1,PiltoverZaun,Mk0: Windup Shredder,0,0,1,None,Unit,TECH,,[],['Challenger'],,
+01IO031,Ionia,Cloud Drinker,6,3,5,Rare,Unit,,,[],[],Your Burst spells cost 1 less.,
+01DE003,Demacia,Laurent Bladekeeper,4,2,3,Rare,Unit,,,[],[],Play: Grant an ally +2|+2.,
+01FR023,Freljord,Warmother's Call,12,0,0,Epic,Spell,,,[],['Slow'],Summon the top ally from your deck now and EACH Round Start.,
+01PZ033,PiltoverZaun,Purrsuit of Perfection,5,0,0,Epic,Spell,,,['01PZ033T1'],['Slow'],"If you've played 20 cards with different names this game, summon Catastrophe. ",
+01SI033T1,ShadowIsles,Blade of Ledros,0,0,0,None,Ability,,,['01SI033'],['Skill'],"Deal damage to the enemy Nexus equal to half its Health, rounded up.",
+01PZ051,PiltoverZaun,Funsmith,5,2,3,Rare,Unit,,,[],[],All of your spells and Skills deal 1 extra damage.,
+01SI028,ShadowIsles,Splinter Soul,3,0,0,Rare,Spell,,,[],['Slow'],Summon an exact copy of an ally. It's Ephemeral and 1|1.,
+01SI025,ShadowIsles,Atrocity,6,0,0,Rare,Spell,,,[],['Fast'],Kill an ally to deal damage equal to its Power to anything.,
+01IO015T2,Ionia,Yasuo's Steel Tempest,3,0,0,None,Spell,,,"['01IO015', '01IO015T1']",['Fast'],"Stun an attacking enemy.
+Shuffle a Yasuo into your deck.",
+01IO011,Ionia,Recall,1,0,0,Common,Spell,,,[],['Fast'],Recall an ally.,
+01IO009T1,Ionia,Living Shadow,3,3,2,None,Unit,,,[],['Ephemeral'],,
+01IO002,Ionia,Will of Ionia,4,0,0,Common,Spell,,,[],['Fast'],Recall a unit.,
+01IO007T1,Ionia,Fatal Strike,0,0,0,None,Ability,,,['01IO007'],['Skill'],"If you have an attacking Ephemeral ally, kill Ren Shadowblade's blocker.",
+01FR047,Freljord,Feral Mystic,2,2,2,Common,Unit,,,[],['Overwhelm'],Enlightened: I have +4|+4.,
+01IO033T1,Ionia,Skyward Strikes,0,0,0,None,Ability,,,[],['Skill'],Recall 3 enemies.,
+01IO017,Ionia,Navori Bladescout,1,2,1,Common,Unit,,,[],[],"When I'm summoned, give me Elusive this round.",
+01FR056,Freljord,Icy Yeti,7,5,5,Rare,Unit,YETI,,[],[],"When I'm summoned, Frostbite enemies with 3 or less Health.",
+01NX056,Noxus,Shunpo,5,0,0,Common,Spell,,,[],['Slow'],"Deal 2 to an enemy unit, then Rally.",
+01PZ022,PiltoverZaun,Poison Puffcap,0,0,0,None,Trap,,,['01PZ008'],['Autoplay'],Deal 1 to your Nexus.,
+01PZ044T2,PiltoverZaun,Face-Melter,0,0,0,None,Ability,,,[],['Skill'],Deal 1 to all enemy units.,
+01SI046,ShadowIsles,Mist's Call,3,0,0,Common,Spell,,,[],['Fast'],Revive a random ally that died this round.,
+01PZ033T1,PiltoverZaun,Catastrophe,1,30,30,None,Unit,,,[],['Overwhelm'],,
+01NX033,Noxus,Trifarian Assessor,4,4,3,Rare,Unit,,,[],[],"When I'm summoned, draw 1 for each 5+ Power ally you have.",
+01DE032,Demacia,Prismatic Barrier,3,0,0,Common,Spell,,,[],['Burst'],Give an ally Barrier this round.,
+01NX006T1,Noxus,Vladimir,5,6,6,None,Unit,,Champion,"['01NX006T2', '01NX006', '01NX006T3']",['Regeneration'],"Attack: For each other attacking ally, deal 1 to it and 1 to the enemy Nexus.",
+01PZ023,PiltoverZaun,Professor von Yipp,4,2,3,Rare,Unit,,,[],[],"When you summon a 1 cost ally, grant it +2|+2.",
+01PZ056T4,PiltoverZaun,Mk1: Wrenchbot,1,1,1,None,Unit,TECH,,[],[],,
+01FR039,Freljord,Tryndamere,8,8,4,Champion,Unit,,Champion,"['01FR039T2', '01FR039T1']",['Overwhelm'],,"If I would die, I Level Up instead."
+01FR027,Freljord,Bull Elnuk,4,4,5,Common,Unit,ELNUK,,[],[],,
+01SI050,ShadowIsles,Brood Awakening,5,0,0,Rare,Spell,,,['01SI002'],['Slow'],"Summon 3 Spiderlings, then grant Spider allies +1|+0. ",
+01FR057,Freljord,Pack Mentality,7,0,0,Rare,Spell,,,[],['Slow'],Give allies +2|+2 and Overwhelm this round.,
+01PZ024,PiltoverZaun,Unstable Voltician,5,4,4,Rare,Unit,,,[],[],Grant me +4|+0 and Quick Attack once you've cast a 6+ cost spell this game.,
+01SI016,ShadowIsles,Wraithcaller,4,4,3,Rare,Unit,,,['01SI014'],[],Allegiance: Summon a Mistwraith.,
+01IO042,Ionia,Sparring Student,1,1,1,Common,Unit,,,[],[],"When you summon an ally, give me +1|+1 this round.",
+01FR038T1,Freljord,Ashe's Flash Freeze,3,0,0,None,Spell,,Champion,"['01FR038', '01FR038T2']",['Burst'],"Frostbite an enemy.
+Shuffle an Ashe into your deck.",
+01FR021,Freljord,Tarkaz the Tribeless,5,5,8,Epic,Unit,,,['01FR021T1'],[],Attack: Deal 1 to ALL battling units.,
+01IO006,Ionia,Greenglade Duo,2,2,1,Rare,Unit,,,[],['Elusive'],"When you summon an ally, give me +1|+0 this round.",
+01NX052,Noxus,Blood for Blood,2,0,0,Common,Spell,,,[],['Fast'],"Deal 1 to an allied follower. If it survives, create a copy of it in hand.",
+01IO050,Ionia,Kinkou Wayfinder,4,2,3,Rare,Unit,,,[],[],Allegiance: Summon two 1 cost allies from your deck.,
+01DE026,Demacia,Single Combat,2,0,0,Common,Spell,,,[],['Fast'],An ally and an enemy strike each other.,
+01NX042,Noxus,Katarina,3,3,2,Champion,Unit,,Champion,"['01NX043', '01NX042T2', '01NX042T1']",['QuickStrike'],Play: Create a Fleeting Blade's Edge in hand.,"I've struck once. When I level up, Recall me."
+01SI021,ShadowIsles,Shark Chariot,2,3,1,Rare,Unit,,,[],"['CantBlock', 'Ephemeral', 'LastBreath']","Last Breath: The next time an Ephemeral ally attacks, revive me attacking.",
+01FR048,Freljord,Avarosan Trapper,3,3,3,Common,Unit,,,['01FR028'],[],"When I'm summoned, create an Enraged Yeti in the top 3 cards of your deck.",
+01PZ049,PiltoverZaun,Progress Day!,8,0,0,Epic,Spell,,,[],['Burst'],"Draw 3, then reduce those cards' costs by 1.",
+01IO048,Ionia,Yusari,5,4,3,Rare,Unit,,,[],"['Challenger', 'Elusive']",,
+01FR017,Freljord,Troop of Elnuks,5,3,3,Common,Unit,ELNUK,,[],[],"Play: For the top 6 cards in your deck, summon each Elnuk and shuffle the rest into your deck.",
+01IO004,Ionia,Health Potion,1,0,0,Common,Spell,,,[],['Burst'],Heal an ally or your Nexus 3.,
+01SI032,ShadowIsles,Chronicler of Ruin,4,3,3,Common,Unit,,,[],[],"Play: Kill an ally, then revive it.",
+01PZ006,PiltoverZaun,Plaza Guardian,10,6,6,Rare,Unit,,,[],['QuickStrike'],Reduce my cost by 1 for each spell you've cast this game.,
+01IO007,Ionia,Ren Shadowblade,8,6,4,Epic,Unit,,,[],[],"When the enemy summons a follower, grant it Ephemeral.",
+01FR024T3,Freljord,Anivia,7,3,5,None,Unit,,Champion,"['01FR024T5', '01FR024', '01FR024T1', '01FR024T4']",['LastBreath'],"Attack: Deal 2 to all enemies and the enemy Nexus.
+Last Breath: Revive me transformed into Eggnivia.",
+01SI058,ShadowIsles,Ethereal Remitter,5,4,3,Rare,Unit,,,[],[],Play: Kill an ally to summon a random follower from any region that costs 2 more.,
+01PZ053,PiltoverZaun,Clump of Whumps,2,2,2,Common,Unit,,,"['01PZ010', '01PZ022']",[],"When I'm summoned, create a Mushroom Cloud in hand.",
+01IO053,Ionia,Emerald Awakener,3,2,2,Common,Unit,,,[],['Lifesteal'],Enlightened: I have +4|+4.,
+01FR046,Freljord,Take Heart,3,0,0,Rare,Spell,,,[],['Burst'],Grant a damaged ally +3|+3.,
+01NX045,Noxus,Savage Reckoner,7,7,4,Rare,Unit,,,[],"['Overwhelm', 'Challenger']",,
+01DE027,Demacia,En Garde,3,0,0,Rare,Spell,,,[],['Burst'],Give allies Challenger this round.,
+01SI044,ShadowIsles,Spectral Matron,8,6,6,Epic,Unit,,,[],['Fearsome'],Play: Pick an ally in hand. Summon an exact copy of it. It's Ephemeral.,
+01FR040,Freljord,Rimetusk Shaman,5,3,3,Rare,Unit,,,[],[],Round Start: Frostbite the Strongest enemy.,
+01IO049,Ionia,Deny,4,0,0,Rare,Spell,,,[],['Fast'],"Stop a Fast spell, Slow spell, or Skill.",
+01NX031,Noxus,Trifarian Gloryseeker,2,5,1,Rare,Unit,,,[],"['Challenger', 'CantBlock']",,
+01PZ012,PiltoverZaun,Flame Chompers!,2,0,2,Common,Unit,,,[],['Challenger'],"When I'm discarded, summon me.",
+01FR031,Freljord,Ancient Yeti,7,5,5,Rare,Unit,YETI,,[],['Overwhelm'],"Round End: If I'm in hand, reduce my cost by 1.",
+01DE006,Demacia,Vanguard Sergeant,3,3,3,Rare,Unit,ELITE,,['01DE035'],[],"When I'm summoned, create a For Demacia! in hand.",
+01FR036T1,Freljord,Bullseye,0,0,0,None,Ability,,,[],['Skill'],Deal 1 to an enemy unit.,
+01FR053,Freljord,Mighty Poro,3,3,3,Common,Unit,PORO,,[],['Overwhelm'],,
+01IO052T1,Ionia,Navori Brigand,2,1,2,None,Unit,,,[],[],,
+01SI039,ShadowIsles,Arachnoid Horror,2,3,2,Common,Unit,SPIDER,,[],['Fearsome'],,
+01PZ039,PiltoverZaun,Get Excited!,3,0,0,Rare,Spell,,,[],['Fast'],"To play, discard 1.
+Deal 3 to anything.",
+01PZ056T9,PiltoverZaun,Mk6: Stormlobber,6,6,1,None,Unit,TECH,,[],['Overwhelm'],,
+01DE038,Demacia,"Senna, Sentinel of Light",3,4,2,Rare,Unit,,,['01DE022'],['QuickStrike'],"The first time I see an allied Lucian die, grant me +1|+1 and Double Attack.",
+01FR010,Freljord,Bloodsworn Pledge,4,0,0,Rare,Spell,,,[],['Burst'],Grant two allies +0|+3.,
+01IO052,Ionia,Navori Highwayman,2,1,2,Common,Unit,,,['01IO052T1'],[],"When I'm summoned, summon a Navori Brigand with my stats.",
+01IO030,Ionia,The Empyrean,7,6,5,Epic,Unit,,,[],['Elusive'],,
+01DE041,Demacia,Back to Back,6,0,0,Rare,Spell,,,[],['Burst'],Give two allies +3|+3 this round.,
+01NX006,Noxus,Vladimir,5,5,5,Champion,Unit,,Champion,"['01NX006T2', '01NX006T1', '01NX006T3']",[],"Attack: For each other attacking ally, deal 1 to it and 1 to the enemy Nexus.",You've had 6+ allies survive damage.
+01PZ016,PiltoverZaun,Flash of Brilliance,3,0,0,Common,Spell,,,[],['Burst'],"Create a random spell that costs 6+ in hand.
+Refill your spell mana.",
+01PZ036T2,PiltoverZaun,Ezreal's Mystic Shot,2,0,0,None,Spell,,Champion,"['01PZ036', '01PZ036T1']",['Fast'],"Deal 2 to anything.
+Shuffle an Ezreal into your deck.",
+01DE035,Demacia,For Demacia!,6,0,0,Rare,Spell,,,[],['Slow'],Give allies +3|+3 this round.,
+01NX008,Noxus,Basilisk Rider,4,5,2,Rare,Unit,,,[],[],Allegiance: Grant me +1|+1 and Overwhelm.,
+01IO019,Ionia,Greenglade Caretaker,1,1,2,Common,Unit,,,[],[],"When an ally gets Barrier, grant me +2|+0.",
+01DE018,Demacia,Radiant Strike,1,0,0,Common,Spell,,,[],['Burst'],Give an ally +1|+1 this round.,
+01IO054,Ionia,Insight of Ages,2,0,0,Rare,Spell,,,[],['Burst'],"Create another random spell in hand.
+Enlightened: Create 2 instead.",
+01SI020,ShadowIsles,The Rekindler,7,4,4,Rare,Unit,,,[],[],"When I'm summoned, revive the Strongest dead allied champion.",
+01FR001,Freljord,Flash Freeze,3,0,0,Rare,Spell,,,[],['Burst'],Frostbite an enemy.,
+01PZ058,PiltoverZaun,Chump Whump,4,4,3,Rare,Unit,,,"['01PZ010', '01PZ022']",[],"When I'm summoned, create two Mushroom Clouds in hand.",
+01SI042,ShadowIsles,Hecarim,6,4,5,Champion,Unit,,Champion,"['01SI042T1', '01SI042T2', '01SI024']",['Overwhelm'],Attack: Summon 2 attacking Spectral Riders.,You've attacked with 7+ Ephemeral allies.
+01DE009,Demacia,Brightsteel Protector,2,3,2,Common,Unit,,,[],[],Play: Give an ally Barrier this round.,
+01SI029,ShadowIsles,Withering Wail,5,0,0,Common,Spell,,,[],['Fast'],Deal 1 to all enemy units. Heal your Nexus 3.,
+01PZ009,PiltoverZaun,Amateur Aeronaut,3,2,3,Common,Unit,,,[],['Elusive'],,
+01IO032T2,Ionia,Shen's Stand United,6,0,0,None,Spell,,Champion,"['01IO032', '01IO032T1']",['Burst'],"Swap two allies. Give them Barrier this round.
+Shuffle a Shen into your deck.",
+01SI035,ShadowIsles,Rhasa the Sunderer,8,7,5,Epic,Unit,,,['01SI035T1'],['Fearsome'],Play: Kill the 2 Weakest enemies if an ally died this round.,
+01FR024,Freljord,Anivia,7,2,4,Champion,Unit,,Champion,"['01FR024T2', '01FR024T3', '01FR024T1', '01FR024T4']",['LastBreath'],"Attack: Deal 1 to all enemies and the enemy Nexus.
+Last Breath: Revive me transformed into Eggnivia.",You're Enlightened.
+01NX034,Noxus,Affectionate Poro,1,1,1,Common,Unit,PORO,,[],['Challenger'],,
+01PZ042,PiltoverZaun,Intrepid Mariner,2,1,3,Rare,Unit,,,[],[],Support: Give my supported ally Elusive this round.,
+01DE042,Demacia,Lux,6,4,5,Champion,Unit,,Champion,"['01DE042T2', '01DE042T1', '01DE042T3']",['Barrier'],,"I've seen you cast 6+ mana of spells. When I level up, create a Final Spark in hand."
+01DE045T2,Demacia,Fiora's Riposte,4,0,0,None,Spell,,Champion,"['01DE045', '01DE045T1']",['Burst'],"Give an ally +3|+0 and Barrier this round.
+Shuffle a Fiora into your deck.",
+01NX035,Noxus,Draven's Biggest Fan,1,2,1,Common,Unit,,,['01NX020'],[],"When I'm summoned, move Draven to the top of your deck if you don't have him in hand or in play.",
+01FR024T5,Freljord,Glacial Storm,0,0,0,Common,Ability,,,"['01FR024', '01FR024T3']",['Skill'],Deal 2 to all enemies and the enemy Nexus.,
+01NX026,Noxus,Reckless Trifarian,3,5,4,Common,Unit,,,[],['CantBlock'],,
+01SI004,ShadowIsles,Darkwater Scourge,3,5,5,Common,Unit,,,[],"['Ephemeral', 'Lifesteal']",,
+01IO046,Ionia,Steel Tempest,3,0,0,Rare,Spell,,,[],['Fast'],Stun an attacking enemy.,
+01DE039,Demacia,Cithria of Cloudfield,1,2,2,Common,Unit,ELITE,,[],[],,
+01NX006T3,Noxus,Vladimir's Transfusion,2,0,0,None,Spell,,Champion,"['01NX006', '01NX006T1']",['Burst'],"Deal 1 to an ally and give another ally +2|+2 this round.
+Shuffle a Vladimir into deck.",
+01FR043T1,Freljord,Fluft of Poros,6,4,4,None,Unit,PORO,,['01FR043'],['LastBreath'],Last Breath: Summon a Heart of the Fluft.,
+01DE029,Demacia,Fleetfeather Tracker,1,2,1,Common,Unit,,,[],[],"When you summon another ally, grant me Challenger.",
+01IO037,Ionia,Spirit's Refuge,4,0,0,Common,Spell,,,[],['Burst'],Give an ally Barrier and Lifesteal this round.,
+01PZ056T8,PiltoverZaun,Mk4: Apex Turret,4,4,1,None,Unit,TECH,,[],['Fearsome'],,
+01FR024T4,Freljord,Eggnivia,1,0,2,None,Unit,,Champion,"['01FR024T3', '01FR024T1']",[],,"Round Start: If you're Enlightened, transform me back into Anivia and Level Up."
+01PZ026,PiltoverZaun,Sumpworks Map,2,0,0,Common,Spell,,,[],['Burst'],Grant an ally Elusive.,
+01NX019,Noxus,Might,3,0,0,Common,Spell,,,[],['Burst'],Give an ally +3|+0 and Overwhelm this round.,
+01DE028,Demacia,Vanguard Cavalry,5,5,5,Common,Unit,ELITE,,[],['Tough'],,
+01IO043,Ionia,Rivershaper,3,2,1,Rare,Unit,,,[],[],Strike: Draw a spell.,
+01PZ043,PiltoverZaun,Chempunk Pickpocket,2,3,2,Rare,Unit,,,[],[],Nexus Strike: Create in hand an exact copy of a random spell from the enemy's deck.,
+01FR032,Freljord,Starlit Seer,2,2,3,Rare,Unit,,,[],['Imbue'],"When you cast a spell, grant the top ally in your deck +1|+1.",
+01IO038,Ionia,Solitary Monk,3,4,3,Rare,Unit,,,[],['Elusive'],"When I'm summoned, Recall all other allies.",
+01FR052,Freljord,She Who Wanders,10,10,10,Epic,Unit,,,['01FR052T1'],[],Play: Obliterate ALL followers with 4 or less Power in play and in hands.,
+01FR051,Freljord,Tall Tales,3,0,0,Common,Spell,,,['01FR028'],['Slow'],"If you have a Yeti, summon an Enraged Yeti. Otherwise, create one on top of your deck.",
+01NX022,Noxus,Noxian Guillotine,3,0,0,Rare,Spell,,,['01NX022'],['Fast'],Kill a damaged unit to create a Fleeting Noxian Guillotine in hand.,
+01PZ047,PiltoverZaun,Caustic Cask,0,0,1,Common,Unit,,,[],"['LastBreath', 'Ephemeral']",Last Breath: Deal 1 to EACH Nexus.,
+01SI026,ShadowIsles,Warden's Prey,1,1,1,Common,Unit,,,[],['LastBreath'],Last Breath: Create in hand another Last Breath follower from any region that costs 3 or less.,
+01IO012T1,Ionia,Discipline of Force,3,0,0,None,Spell,,,[],['Burst'],Give an ally +3|+0 this round.,
+01DE054,Demacia,Vanguard Redeemer,3,3,3,Common,Unit,ELITE,,[],[],"When I'm summoned, draw a unit if an ally died this round.",
+01IO041T2,Ionia,Karma's Insight of Ages,2,0,0,None,Spell,,Champion,"['01IO041', '01IO041T1']",['Burst'],"Create another random spell in hand.
+Enlightened: Create 2 instead.
+Shuffle a Karma into your deck.",
+01IO039,Ionia,Shadowshift,3,0,0,Common,Spell,,,['01IO009T1'],['Fast'],Recall an ally to summon a Living Shadow in its place.,
+01NX032,Noxus,Crimson Awakener,4,5,5,Rare,Unit,,,[],[],"When I'm summoned, deal 1 to all other allies.",
+01DE023,Demacia,Mageseeker Investigator,3,3,3,Common,Unit,,,['01DE025'],[],Create a Detain once you've cast a 6+ cost spell this game.,
+01NX024,Noxus,Kato The Arm,5,5,4,Epic,Unit,,,[],[],Support: Give my supported ally +3|+0 and Overwhelm this round.,
+01SI040,ShadowIsles,Vile Feast,2,0,0,Common,Spell,,,['01SI002'],['Fast'],Drain 1 from a unit to summon a Spiderling.,
+01FR034,Freljord,They Who Endure,6,1,1,Rare,Unit,,,[],['Overwhelm'],"When I'm summoned, grant me +1|+1 for each ally that has died.",
+01DE051,Demacia,Cithria the Bold,6,6,6,Epic,Unit,ELITE,,[],[],Attack: Give other battling allies +1|+1 and Fearsome this round.,
+01IO056,Ionia,"Yone, Windchaser",7,6,6,Rare,Unit,,,['01IO056T1'],[],Play: Stun 2 enemies.,
+01IO055,Ionia,Ki Guardian,2,0,0,Common,Spell,,,[],['Burst'],"Grant Barrier to an ally in hand. 
+Draw 1.",
+01DE044,Demacia,Redoubled Valor,6,0,0,Rare,Spell,,,[],['Slow'],"Fully heal an ally, then double its Power and Health.",
+01SI015,ShadowIsles,The Ruination,9,0,0,Epic,Spell,,,[],['Slow'],Kill ALL units.,
+01SI052T1,ShadowIsles,Thresh,5,4,7,None,Unit,,Champion,"['01SI052T2', '01SI052']",['Challenger'],"The first time I attack this game, summon another attacking champion from your deck or hand.",
+01NX049,Noxus,Guile,1,0,0,Common,Spell,,,[],['Slow'],Stun an enemy.,
+01FR007,Freljord,Babbling Bjerg,4,3,3,Common,Unit,,,[],[],"When I'm summoned, draw a unit with 5+ Power.",
+01DE012,Demacia,Garen,5,5,5,Champion,Unit,ELITE,Champion,"['01DE012T1', '01DE012T2']",['Regeneration'],,I've struck twice.
+01NX020T1,Noxus,Spinning Axe,0,0,0,None,Spell,,,['01NX020'],['Burst'],"To play, discard 1.
+Give an ally +1|+0 this round.",
+01FR003,Freljord,Avarosan Sentry,2,2,1,Common,Unit,,,[],['LastBreath'],Last Breath: Draw 1.,
+01SI055,ShadowIsles,Soulgorger,6,3,7,Rare,Unit,,,[],['Lifesteal'],,
+01SI047,ShadowIsles,Fading Memories,0,0,0,Rare,Spell,,,[],['Burst'],Pick a follower. Create an Ephemeral copy of it in hand.,
+02PZ001,PiltoverZaun,Subpurrsible,5,1,5,Epic,Unit,,,[],['Elusive'],"When I'm summoned, draw 1.
+Then, if you've played at least 10 other cards with different names, grant me +4|+0. ",
+02BW040,Bilgewater,Shellshocker ,1,2,1,Common,Unit,,,[],['Attune'],,
+02FR009,Freljord,Wolfrider,4,4,3,Common,Unit,,,[],['Overwhelm'],Plunder: Get an empty mana gem.,
+02PZ010,PiltoverZaun,Veteran Investigator,2,3,2,Common,Unit,,,[],[],"When I'm summoned, ALL players draw 1.",
+02NX001,Noxus,The Leviathan,8,5,8,Epic,Unit,,,['02NX007'],['Overwhelm'],"Play: Draw a Swain.
+Round Start: Deal 1 to the enemy Nexus three times.",
+02BW057,Bilgewater,Slippery Waverider,5,4,4,Common,Unit,,,[],"['Elusive', 'Attune']",,
+02DE003,Demacia,Loyal Badgerbear,3,4,4,Common,Unit,,,[],[],,
+02SI005,ShadowIsles,Sap Magic,3,0,0,Rare,Spell,,,[],['Burst'],"Toss 3.
+Heal allies 3.",
+02BW032,Bilgewater,Gangplank,5,5,5,Champion,Unit,,Champion,"['02BW032T3', '02BW032T2', '02BW032T1', '02BW032T4']",['Overwhelm'],"When I'm summoned, summon a Powder Keg.",When you've damaged the enemy Nexus in 5 rounds this game.
+02BW041,Bilgewater,The Beast Below,4,4,4,Common,Unit,SEA MONSTER,,[],['Deep'],,
+02BW032T2,Bilgewater,Gangplank's Parrrley,1,0,0,None,Spell,,Champion,"['02BW032', '02BW032T3']",['Slow'],"Deal 1 to anything.
+If this kills it, deal 1 to the enemy Nexus.
+Shuffle a Gangplank into your deck.",
+02PZ006,PiltoverZaun,Gotcha!,4,0,0,Common,Spell,,,[],['Fast'],"When drawn, costs 2 less this round.
+Deal 3 to a unit.",
+02BW013,Bilgewater,Prowling Cutthroat,1,1,1,Common,Unit,,,[],"['Fearsome', 'Elusive']",,
+02SI010,ShadowIsles,Deadbloom Wanderer,3,3,2,Common,Unit,,,[],['Lifesteal'],"When I'm summoned, Toss 3.",
+02BW034T1,Bilgewater,Powder Monkey,1,2,1,None,Unit,,,[],"['Ephemeral', 'LastBreath']",Last Breath: Deal 1 to the enemy Nexus.,
+02BW056T1,Bilgewater,Devour,0,0,0,None,Ability,,,[],['Skill'],Obliterate an enemy with less Health than me.,
+02BW061,Bilgewater,Pocket Aces,3,0,0,Common,Spell,,,[],['Burst'],"When drawn, costs 1 less this round.
+Grant an ally +2|+1.",
+02BW060,Bilgewater,Crackshot Corsair,1,1,1,Common,Unit,,,['02BW060T1'],[],"When allies attack, deal 1 to the enemy Nexus.",
+02NX007T2,Noxus,Swain,5,4,7,None,Unit,,Champion,"['02NX007', '02NX007T1']",['Fearsome'],"When we deal non-combat damage to the enemy Nexus, Stun the Strongest backrow enemy.
+Nexus Strike: Deal 3 to all enemies.",
+02BW022T3,Bilgewater,Miss Fortune's Make it Rain,2,0,0,None,Spell,,Champion,"['02BW022', '02BW022T2']",['Fast'],"Deal 1 to three different random enemies.
+Shuffle a Miss Fortune into your deck.",
+02BW011,Bilgewater,Yordle Grifter,4,3,3,Rare,Unit,,,['02BW020'],[],"When I'm summoned, create a Warning Shot in hand.
+Allegiance: Draw 1 from the enemy deck.",
+02BW022,Bilgewater,Miss Fortune,3,3,3,Champion,Unit,,Champion,"['02BW022T1', '02BW022T4', '02BW022T2', '02BW022T3']",[],"When allies attack, deal 1 to battling enemies and the enemy Nexus.",When I've seen you attack 4 times.
+02BW030T2,Bilgewater,Keelbreaker,5,0,0,None,Spell,TREASURE,,[],['Slow'],"If I'm Tossed, draw me instead.
+Deal 5 to ALL units.",
+02FR004,Freljord,Caught in the Cold,2,0,0,Rare,Spell,,,[],['Slow'],Give an enemy unit Frostbite and Vulnerable this round.,
+02BW019,Bilgewater,Bubble Bear,3,0,6,Common,Unit,,,[],"['Attune', 'Elusive']",,
+02BW007,Bilgewater,Brash Gambler,4,4,5,Rare,Unit,,,[],[],"To play me, discard 2.
+Attack: Draw 2 Fleeting.",
+02PZ004,PiltoverZaun,Vault Breaker,3,0,0,Rare,Spell,,,[],['Burst'],"Give an ally +2|+0 this round.
+Create a Fleeting Vault Breaker in hand.",
+02BW014,Bilgewater,Coral Creatures,2,1,2,Rare,Unit,,,[],['Attune'],"When I'm summoned, create a random 1 cost spell in hand.",
+02NX006,Noxus,Citybreaker,4,0,5,Rare,Unit,,,[],[],Round Start: Deal 1 to the enemy Nexus.,
+02DE008,Demacia,Greathorn Companion,5,4,5,Common,Unit,,,[],['Scout'],,
+02IO008T1,Ionia,Resonating Strike,1,0,0,None,Spell,,,[],"['Burst', 'Fleeting']",Give an ally +2|+0 this round.,
+02BW024,Bilgewater,Double Trouble,3,0,0,Rare,Spell,,,[],['Slow'],Summon two random 1 cost followers from any faction.,
+02BW062,Bilgewater,Island Navigator,4,2,4,Rare,Unit,,,[],['Scout'],"When I'm summoned, create a random 1 cost unit from any faction and grant it Scout.",
+02BW055,Bilgewater,Jagged Taskmaster,3,4,3,Epic,Unit,,,[],[],Plunder: Grant 1 cost allies everywhere +1|+0.,
+02SI008T3,ShadowIsles,Sapling,1,2,1,None,Unit,,,[],"['Ephemeral', 'Challenger']",,
+02IO005T1,Ionia,Tail of the Dragon,3,3,2,Common,Unit,,,['02IO005'],[],"When I'm Recalled, transform me into Concussive Palm.",
+02DE004,Demacia,Greenfang Warden,3,2,2,Common,Unit,ELITE,,[],"['Barrier', 'Scout']",,
+02BW030,Bilgewater,Shipwreck Hoarder,7,7,5,Epic,Unit,SEA MONSTER,,"['02BW030T2', '02BW030T3', '02BW030T1', '02BW030T4']",['Deep'],"When I'm summoned, Toss 2 and shuffle 2 Treasures into your deck.
+",
+02DE006T3,Demacia,Quinn's Blinding Assault,2,0,0,None,Spell,,Champion,"['02DE006', '02DE006T1', '02DE006T2']",['Slow'],"Summon Valor.
+Shuffle a Quinn into your deck.",
+02SI007,ShadowIsles,Thorny Toad,2,1,4,Common,Unit,,,[],['LastBreath'],Last Breath: Toss 2 and heal your Nexus 2.,
+02BW003,Bilgewater,Strong-arm,6,0,0,Rare,Spell,,,[],['Slow'],Plunder: Place a Follower in play into your hand.,
+02BW017,Bilgewater,Citrus Courier,6,4,5,Rare,Unit,,,[],[],"Plunder: Heal allies and your Nexus 3, then Rally.
+",
+02SI003,ShadowIsles,Terror of the Tides,8,6,5,Epic,Unit,SEA MONSTER,,[],['Deep'],"Attack: Give enemies -2|-0 this round.
+Sea Monster allies have Fearsome.
+",
+02NX007T1,Noxus,Swain's Ravenous Flock,1,0,0,None,Spell,,Champion,"['02NX007', '02NX007T2']",['Fast'],"Deal 4 to a unit if it's damaged or Stunned.
+Shuffle a Swain into your deck.",
+02BW022T2,Bilgewater,Miss Fortune,3,4,4,None,Unit,,Champion,"['02BW022T4', '02BW022', '02BW022T3']",['Overwhelm'],"When allies attack, deal 1 three times to battling enemies and the enemy Nexus.",
+02IO002T1,Ionia,Dragon's Protection,2,0,0,None,Spell,,,['02IO002'],['Slow'],Grant an ally +0|+3.,
+02PZ007,PiltoverZaun,Insightful Investigator,4,3,3,Rare,Unit,,,[],[],"When you play a 2 cost card, draw 1 Fleeting.",
+02BW056,Bilgewater,Devourer of the Depths,6,4,4,Epic,Unit,SEA MONSTER,,['02BW056T1'],['Deep'],"Play: Obliterate an enemy with less Health than me.
+",
+02BW046T3,Bilgewater,Fizz,1,3,2,None,Unit,,Champion,"['02BW025', '02BW046', '02BW046T1', '02BW046T2']",[],"When you cast a spell, give me Elusive and stop all enemy spells and skills targeting me.
+Nexus Strike: Create a Chum the Waters.",
+02DE006T2,Demacia,Valor,2,2,1,None,Unit,,,[],"['Challenger', 'Scout']",,
+02BW025,Bilgewater,Chum the Waters,4,0,0,Common,Spell,,,['02BW046T2'],['Slow'],Grant an enemy Vulnerable and summon Longtooth.,
+02BW022T4,Bilgewater,Bullet Time,0,0,0,None,Ability,,,[],['Skill'],Deal 1 three times to battling enemies and the enemy Nexus.,
+02DE009,Demacia,Grizzled Ranger,4,4,1,Rare,Unit,,,['02DE003'],"['Scout', 'LastBreath']",Last Breath: Summon a Loyal Badgerbear.,
+02IO006,Ionia,Lee Sin,6,3,6,Champion,Unit,,Champion,"['02IO006T3', '02IO006T1', '02IO006T2']",['Imbue'],"When you cast a spell, give me Challenger this round.
+If you cast another, give me Barrier.",When you've cast 7+ spells this game.
+02BW038,Bilgewater,Zap Sprayfin,4,2,2,Epic,Unit,,,[],"['Elusive', 'Attune']","When I'm summoned, draw a spell that costs 3 or less from your deck.",
+02BW021,Bilgewater,Razorscale Hunter,5,4,4,Rare,Unit,,,[],['Scout'],Play: Grant an enemy Vulnerable.,
+02BW022T1,Bilgewater,Love Tap,0,0,0,None,Ability,,,[],['Skill'],Deal 1 to battling enemies and the enemy Nexus.,
+02SI001,ShadowIsles,Neverglade Collector,5,2,4,Rare,Unit,,,[],[],"When another ally dies, Drain 1 from the enemy Nexus.",
+02BW026T5,Bilgewater,Gold Card,0,0,0,None,Ability,,,[],['Skill'],Deal 2 and Stun the Strongest enemy.,
+02BW030T1,Bilgewater,Treasure Trove,5,0,0,None,Spell,TREASURE,,[],['Slow'],"If I'm Tossed, draw me instead. Create 5 random cards in hand, they cost 0 and are Fleeting.",
+02PZ002,PiltoverZaun,Chief Mechanist Zevi,6,5,6,Epic,Unit,,,[],[],"When you draw a card, give it Fleeting and create a copy of it.",
+02BW012,Bilgewater,More Powder!,2,0,0,Common,Spell,,,['02BW032T1'],['Slow'],Summon 2 Powder Kegs.,
+02SI008T1,ShadowIsles,Maokai's Sap Magic,3,0,0,None,Spell,,Champion,"['02SI008', '02SI008T2', '02SI008T3']",['Burst'],"Toss 3.
+Heal allies 3.
+Shuffle a Maokai into your deck.",
+02NX002,Noxus,Aurok Glinthorn ,6,6,6,Epic,Unit,,,[],[],Attack: Stun all damaged enemies.,
+02DE005,Demacia,Unyielding Spirit,8,0,0,Epic,Spell,,,[],['Burst'],"Grant an ally ""I can't take damage or die"".",
+02BW035,Bilgewater,Sheriff Lariette Rose,6,6,5,Epic,Unit,,,[],[],"When I'm summoned, grant all enemies Vulnerable.",
+02SI002,ShadowIsles,Overgrown Snapvine,7,4,3,Epic,Unit,,,"['02SI002', '02SI002', '02SI002', '02SI002', '02SI002', '02SI002', '02SI002', '02SI002', '02SI002']",[],"When you summon a follower, kill it to summon an Overgrown Snapvine.",
+02IO004,Ionia,Horns of the Dragon,6,4,6,Common,Unit,,,[],['DoubleStrike'],,
+02BW058,Bilgewater,Jagged Butcher,1,2,2,Common,Unit,,,[],[],Plunder: Grant me +1|+1.,
+02BW026T3,Bilgewater,Twisted Fate,4,3,3,None,Unit,,Champion,"['02BW026T2', '02BW026T5', '02BW026T4', '02BW026', '02BW026T1']",['QuickStrike'],"The first 3 times I see you play a card each round, I play a Destiny Card.",
+02BW028T1,Bilgewater,Cannon Barrage,0,0,0,None,Ability,,,[],['Skill'],"Deal 2 to a unit.
+If it's dead or gone, deal 1 to the enemy Nexus instead.",
+02BW018,Bilgewater,Parrrley,1,0,0,Common,Spell,,,[],['Slow'],"Deal 1 to anything.
+If this kills it, deal 1 to the enemy Nexus.",
+02BW037,Bilgewater,Abyssal Eye,5,3,3,Rare,Unit,SEA MONSTER,,[],"['Elusive', 'Deep']","Nexus Strike: Draw a card.
+",
+02IO003T1,Ionia,Dragonling,2,2,1,Common,Unit,,,['02IO003T1'],"['Ephemeral', 'Lifesteal']",,
+02FR002,Freljord,Sejuani,6,5,6,Champion,Unit,,Champion,"['02FR002T3', '02FR002T1']",['Overwhelm'],Play: Give an enemy Frostbite and Vulnerable this round.,When you've damaged the enemy Nexus in 5 different rounds this game.
+02BW048,Bilgewater,Jailbreak,1,0,0,Common,Spell,,,[],['Slow'],Summon a random 1 cost follower from any faction.,
+02BW043,Bilgewater,Pick a Card,3,0,0,Rare,Spell,,,[],['Burst'],Shuffle a card from hand into your deck to draw 3 Fleeting at next Round Start.,
+02FR001,Freljord,Ember Maiden,3,3,2,Rare,Unit,,,[],[],Round Start: Deal 1 to EVERYTHING.,
+02BW008T02,Bilgewater,Petty Officer B,3,3,1,Common,Unit,,,[],[],Play: Summon a random 1 cost ally from any faction.,
+02BW008T01,Bilgewater,Petty Officer A,3,3,1,Common,Unit,,,['02BW032T1'],[],Play: Summon a Powder Keg.,
+02BW051,Bilgewater,Playful Trickster,4,0,0,Rare,Spell,,,[],['Fast'],Remove an attacking ally from combat to Rally.,
+02BW054,Bilgewater,Riptide,4,0,0,Rare,Spell,,,['02BW053'],['Fast'],"Stun an enemy.
+Shuffle that unit into the enemy deck if there's an ally Nautilus.",
+02SI004,ShadowIsles,Blighted Caretaker,3,2,1,Rare,Unit,,,['02SI008T3'],[],Play: Kill an ally to summon 2 Saplings.,
+02IO006T1,Ionia,Lee Sin,6,4,7,None,Unit,,Champion,"['02IO006T3', '02IO006', '02IO006T2']",['Imbue'],"When you cast a spell, give me Challenger this round.
+If you cast another, give me Barrier.
+I Dragon's Rage enemies that I Challenge.",
+02BW026T1,Bilgewater,Twisted Fate's Pick a Card,3,0,0,None,Spell,,Champion,"['02BW026', '02BW026T3']",['Burst'],"Shuffle a card from hand into your deck to draw 3 Fleeting at next Round Start.
+Shuffle a Twisted Fate into your deck.",
+02IO003,Ionia,Eye of the Dragon,2,1,3,Epic,Unit,,,['02IO003T1'],['Attune'],Round Start: Summon a Dragonling if you cast 2+ spells last round.,
+02BW053T2,Bilgewater,Nautilus's Riptide,4,0,0,None,Spell,,Champion,"['02BW053', '02BW053', '02BW053T1']",['Fast'],"Stun an enemy.
+Shuffle that enemy into the enemy deck if you have a Nautilus.
+Shuffle a Nautilus into your deck.",
+02IO001,Ionia,Claws of the Dragon,2,3,2,Common,Unit,,,[],[],Summon me from hand once you've played 2 spells this round.,
+02SI008,ShadowIsles,Maokai,4,1,4,Champion,Unit,,Champion,"['02SI008T2', '02SI008T1', '02SI008T3']",[],"The first time you play another ally each round, Toss 2 and summon a Sapling.",When your units have died or your cards have been Tossed 25 times this game.
+02PZ008,PiltoverZaun,Vi,5,2,5,Champion,Unit,,Champion,"['02PZ008T2', '02PZ008T1']","['Challenger', 'Tough']","While I'm in play or in hand, grant me +1|+0 when you play another card (max +8|+0). ",When I Strike for 10 or more.
+02SI006,ShadowIsles,Barkbeast,1,1,1,Common,Unit,,,[],[],"The first time an ally dies, grant me +2|+2.",
+02BW047,Bilgewater,Dreg Dredgers,1,2,1,Common,Unit,,,[],[],"When I'm summoned, Toss 3.",
+02NX009,Noxus,Ravenous Flock,1,0,0,Rare,Spell,,,[],['Fast'],Deal 4 to a unit if it's damaged or Stunned.,
+02BW008,Bilgewater,Petty Officer,3,3,1,Rare,Unit,,,['02BW032T1'],[],"Play: Summon a Powder Keg, or a random 1 cost ally from any faction.",
+02NX007,Noxus,Swain,5,3,6,Champion,Unit,,Champion,"['02NX007T2', '02NX007T1']",['Fearsome'],Nexus Strike: Deal 3 to the enemy Nexus.,When we've done 12 non-combat damage this game.
+02BW053,Bilgewater,Nautilus,7,0,12,Champion,Unit,,Champion,"['02BW053T1', '02BW053T2']","['Tough', 'Fearsome']","When I Level Up, copy Tossed allies that cost 4+ into your deck.",When you are Deep. 
+02FR005T1,Freljord,Stormclaw Ursine,5,6,6,None,Unit,,,['02FR005'],['Overwhelm'],Other allies with 5+ Power have Overwhelm.,
+02BW032T3,Bilgewater,Gangplank,5,6,6,None,Unit,,Champion,"['02BW032', '02BW032T2', '02BW032T1', '02BW032T4']",['Overwhelm'],"When I'm summoned and Round Start: Summon a Powder Keg.
+Attack: Deal 1 to all enemies and the enemy Nexus.",
+02FR010,Freljord,Shared Spoils,2,0,0,Rare,Spell,,,[],['Burst'],"Grant the top 3 units in your deck +1|+1.
+Plunder: Draw 1 of them.",
+02BW004,Bilgewater,Dreadway Deckhand,2,2,2,Common,Unit,,,['02BW032T1'],[],"When I'm summoned, summon a Powder Keg.",
+02BW002,Bilgewater,The Dreadway,9,4,8,Epic,Unit,,,['02BW032'],['Fearsome'],"Play: Draw a Gangplank.
+Double all damage dealt by allies.",
+02BW032T1,Bilgewater,Powder Keg,0,0,1,None,Unit,,,[],"['Immobile', 'Vulnerable']","Powder Kegs stack.
+All your spells and skills deal 1 extra damage.
+Destroy me when your spell or skill damages enemies.",
+02IO005,Ionia,Concussive Palm,4,3,2,Rare,Spell,,,['02IO005T1'],['Fast'],Stun an enemy to summon a Tail of the Dragon.,
+02NX004,Noxus,Imperial Demolitionist,2,2,3,Common,Unit,,,['02NX004T1'],[],Play: Deal 1 to an ally unit to deal 2 to the enemy Nexus.,
+02BW016,Bilgewater,Slotbot,3,0,3,Rare,Unit,,,[],[],"Round Start: Grant me +0|+1 for each card you drew last round, then shuffle my stats.
+",
+02BW030T4,Bilgewater,Vicious Platewyrm,5,5,5,None,Unit,SEA MONSTER,,[],"['Fearsome', 'Deep']",,
+02DE002,Demacia,Blinding Assault,2,0,0,Rare,Spell,,,['02DE006T2'],['Slow'],Summon Valor.,
+02NX003,Noxus,Noxian Fervor,3,0,0,Common,Spell,,,[],['Fast'],Deal 3 to an ally unit to deal 3 to anything.,
+02FR008,Freljord,The Tuskraider,8,7,7,Epic,Unit,,,"['02FR002', '02FR002T3']",[],"Plunder: Double the Power and Health of allies in your deck.
+Play: Draw a Sejuani.
+",
+02FR002T1,Freljord,Sejuani's Fury of the North,4,0,0,None,Spell,,Champion,"['02FR002', '02FR002T3']",['Burst'],"Give an ally +4|+4 this round.
+Shuffle a Sejuani into your deck.",
+02IO006T3,Ionia,Dragon's Rage,0,0,0,Common,Ability,,,[],['Skill'],"An ally kicks an enemy into their Nexus, striking both.
+If the enemy survives, Recall it.",
+02PZ009,PiltoverZaun,Trail of Evidence,2,0,0,Common,Spell,,,[],['Burst'],Create a random 2 cost card in hand. It costs 0 this round.,
+02DE010,Demacia,Genevieve Elmheart,6,4,4,Epic,Unit,,,[],"['Scout', 'Challenger']","When I'm summoned, give other allies +1|+1 this round.",
+02IO002,Ionia,Scales of the Dragon,3,4,2,Common,Unit,,,['02IO002T1'],[],"When I'm summoned, create a Dragon's Protection in hand.",
+02BW026,Bilgewater,Twisted Fate,4,2,2,Champion,Unit,,Champion,"['02BW026T2', '02BW026T5', '02BW026T4', '02BW026T3', '02BW026T1']",['QuickStrike'],Play: Play a Destiny Card.,When I've seen you draw 8+ cards.
+02BW027,Bilgewater,Hunting Fleet,5,7,7,Common,Unit,,,['02BW036'],[],"When I'm summoned, summon a Golden Narwhal for your opponent.",
+02FR002T3,Freljord,Sejuani,6,6,7,None,Unit,,Champion,"['02FR002', '02FR002T1']",['Overwhelm'],"Play: Give an enemy Frostbite and Vulnerable this round.
+The first time I see you damage the enemy Nexus each round, Frostbite all enemies.",
+02IO010,Ionia,Retreat,2,0,0,Rare,Spell,,,['02IO010T1'],['Fast'],Recall an ally to create a Fleeting Return in hand.,
+02BW042,Bilgewater,Mind Meld,8,0,0,Epic,Spell,,,[],['Slow'],"This round, set all allies' Power and Health to the number of spells you've played this game. ",
+02DE007,Demacia,Ranger's Resolve,1,0,0,Rare,Spell,,,[],['Burst'],Give allies Tough this round.,
+02BW059,Bilgewater,Scrapshot,7,0,0,Rare,Spell,,,[],['Fast'],"Toss 3.
+Deal 7 to a unit.",
+02FR007,Freljord,Fury of the North,4,0,0,Common,Spell,,,[],['Burst'],Give an ally +4|+4 this round.,
+02BW032T4,Bilgewater,Powderful Explosion,0,0,0,Common,Ability,,,['02BW032T1'],['Skill'],Deal 1 to all enemies and the enemy Nexus.,
+02BW050,Bilgewater,Smooth Soloist,7,3,4,Rare,Unit,,,[],['Elusive'],Plunder: Reduce the cost of allies in your hand and deck by 2.,
+02DE006T1,Demacia,Quinn,5,4,5,None,Unit,,Champion,"['02DE006', '02DE006T3', '02DE006T2']",['Scout'],Attack: Summon Valor Challenging the Strongest enemy.,
+02BW028,Bilgewater,Riptide Rex,8,7,4,Epic,Unit,,,['02BW028T1'],[],Plunder: Cannon Barrage 7 times on random enemies.,
+02BW023,Bilgewater,Lure of the Depths,3,0,0,Rare,Spell,,,[],['Burst'],"Reduce the cost of Sea Monster allies everywhere by 1.
+Draw a Sea Monster.",
+02SI009,ShadowIsles,Sapling Toss,1,0,0,Common,Spell,,,['02SI008T3'],['Burst'],Summon a Sapling next round.,
+02PZ003,PiltoverZaun,Suit Up!,4,0,0,Rare,Spell,,,[],['Burst'],"When drawn, costs 2 less this round.
+Set an ally to 4|4.",
+02BW031,Bilgewater,Double Up,6,0,0,Rare,Spell,,,[],['Fast'],"Deal 2 to an enemy unit.
+If this kills it, deal 4 to the enemy Nexus.",
+02BW034,Bilgewater,Monkey Idol,3,0,4,Rare,Unit,,,['02BW034T1'],['Immobile'],Round Start: Deal 2 to me and summon a Powder Monkey.,
+02SI008T2,ShadowIsles,Maokai,4,2,5,None,Unit,,Champion,"['02SI008', '02SI008T1', '02SI008T3']",['Regeneration'],"When I Level Up, Obliterate the enemy deck, leaving 4 non-champions.
+Round Start: Summon a Sapling.",
+02NX010,Noxus,Armored Tuskrider,6,6,5,Rare,Unit,,,[],['Overwhelm'],I only take damage from enemy units with 5+ Power.,
+02DE001,Demacia,Concerted Strike,5,0,0,Common,Spell,,,[],['Fast'],Choose an enemy. Two allies strike it.,
+02IO007,Ionia,Dragon's Rage,7,0,0,Epic,Spell,,,[],['Slow'],"An ally kicks an enemy into their Nexus, striking both.
+If the enemy survives, Recall it.",
+02BW029,Bilgewater,Salvage,4,0,0,Common,Spell,,,[],['Burst'],"Toss 2.
+Draw 2.",
+02BW015,Bilgewater,The Syren,7,3,7,Epic,Unit,,,['02BW022'],['Scout'],"Play: Draw a Miss Fortune.
+While I'm attacking, all your spells and skills deal 1 extra damage.",
+02BW010,Bilgewater,Plunder Poro,1,1,1,Common,Unit,PORO,,[],[],Plunder: Grant me two random keywords.,
+02BW009,Bilgewater,Pool Shark,1,1,2,Common,Unit,,,[],[],"When I'm summoned, draw 1 Fleeting next round.",
+02BW005,Bilgewater,Hired Gun,2,2,3,Common,Unit,,,[],[],"When I'm summoned, grant the Strongest enemy Vulnerable.",
+02BW046,Bilgewater,Fizz,1,2,1,Champion,Unit,,Champion,"['02BW025', '02BW046T3', '02BW046T1', '02BW046T2']",[],"When you cast a spell, give me Elusive and stop all enemy spells and skills targeting me.",When you've cast 6+ spells this game.
+02BW049,Bilgewater,Pilfered Goods,2,0,0,Common,Spell,,,[],['Burst'],"Draw a card from the enemy deck.
+Plunder: Draw 1 more.",
+02FR005,Freljord,Ursine Spiritwalker,5,4,6,Common,Unit,,,['02FR005T1'],[],Plunder: I transform into Stormclaw Ursine.,
+02BW039,Bilgewater,Jaull Hunters,3,4,1,Rare,Unit,,,[],['Challenger'],"When I'm summoned, create a random Sea Monster in hand.",
+02BW030T3,Bilgewater,Platewyrm Egg,5,0,0,None,Spell,TREASURE,,['02BW030T4'],['Slow'],"If I'm Tossed, draw me instead.
+Summon 3 Vicious Platewyrms.",
+02BW006,Bilgewater,Mystifying Magician,4,2,2,Rare,Unit,,,[],[],Play: Transform an ally into a random 5 cost follower from any faction.,
+02BW046T2,Bilgewater,Longtooth,4,5,1,None,Unit,,,[],['Overwhelm'],,
+02PZ008T2,PiltoverZaun,Vi,5,10,6,None,Unit,,Champion,"['02PZ008', '02PZ008T1']","['Challenger', 'Tough']","When I Strike a unit while attacking, deal 5 to the enemy Nexus.",
+02BW026T2,Bilgewater,Blue Card,0,0,0,None,Ability,,,[],['Skill'],"Refill 1 spell mana.
+Draw 1.",
+02DE006,Demacia,Quinn,5,3,4,Champion,Unit,,Champion,"['02DE006T2', '02DE006T1', '02DE006T3']",['Scout'],"When I'm summoned, summon Valor.",When I've seen you attack 4 times.
+02BW001,Bilgewater,Ye Been Warned,1,0,0,Common,Spell,,,[],['Slow'],"Give an enemy Vulnerable this round. If it dies this round, draw a card.",
+02IO006T2,Ionia,Lee Sin's Dragon's Rage,7,0,0,None,Spell,,Champion,"['02IO006', '02IO006T1']",['Slow'],"An ally kicks an enemy into their Nexus, striking both.
+If the enemy survives, Recall it.
+Shuffle a Lee Sin into your deck.",
+02IO010T1,Ionia,Return,1,0,0,None,Spell,,,[],"['Fleeting', 'Burst']",Summon an ally that costs 3 or less from hand.,
+02BW026T4,Bilgewater,Red Card,0,0,0,None,Ability,,,[],['Skill'],Deal 1 to all enemies and the enemy Nexus.,
+02IO009,Ionia,Deep Meditation,4,0,0,Rare,Spell,,,[],['Burst'],"Costs 2 less if you cast 2+ spells last round.
+Draw 2 other spells.
+",
+02BW063,Bilgewater,Sleight of Hand,3,0,0,Rare,Spell,,,[],['Slow'],Plunder: Draw a random non-champion from the enemy hand.,
+02BW036,Bilgewater,Golden Narwhal,3,2,4,Common,Unit,,,[],"['Elusive', 'Vulnerable']",,
+02BW045,Bilgewater,Make it Rain,2,0,0,Common,Spell,,,[],['Fast'],Deal 1 to three different random enemies.,
+02BW033,Bilgewater,Black Market Merchant,2,2,2,Rare,Unit,,,[],[],"When you draw an enemy card, reduce its cost by 1.
+Plunder: Draw 1 from the enemy deck.",
+02NX004T1,Noxus,Black Powder Grenade,0,0,0,None,Ability,,,[],['Skill'],Deal 1 to an ally unit to deal 2 to the enemy Nexus.,
+02BW060T1,Bilgewater,Crackshot,0,0,0,None,Ability,,,[],['Skill'],Deal 1 to the enemy Nexus.,
+02PZ008T1,PiltoverZaun,Vi's Vault Breaker,3,0,0,None,Spell,,Champion,"['02PZ008', '02PZ008T2']",['Burst'],"Give an ally +2|+0 this round.
+Create a Fleeting Vault Breaker in hand.
+Shuffle a Vi into your deck.",
+02BW020,Bilgewater,Warning Shot,0,0,0,Common,Spell,,,[],['Burst'],Deal 1 to the enemy Nexus.,
+02NX008,Noxus,Death's Hand,3,0,0,Common,Spell,,,[],['Fast'],Deal 2 to an enemy unit and 1 to their Nexus.,
+02PZ005,PiltoverZaun,Patrol Wardens,3,4,3,Common,Unit,,,[],[],"When I'm drawn, I cost 1 less this round.",
+02NX005,Noxus,Iron Ballista,3,4,3,Common,Unit,,,[],['Overwhelm'],,
+02FR006,Freljord,Ruthless Raider,2,3,1,Common,Unit,,,[],"['Overwhelm', 'Tough']",,
+02BW046T1,Bilgewater,Fizz's Playful Trickster,4,0,0,None,Spell,,Champion,"['02BW046', '02BW046T3']",['Fast'],"Remove an attacking ally from combat to Rally.
+Shuffle a Fizz into your deck.",
+02BW053T1,Bilgewater,Nautilus,7,13,13,None,Unit,,Champion,"['02BW053', '02BW053T2']","['Tough', 'Fearsome']",Sea Monster allies cost 4 less.,
+02BW044,Bilgewater,Jettison,1,0,0,Rare,Spell,,,[],['Burst'],Toss 4.,
+02IO008,Ionia,Sonic Wave,2,0,0,Common,Spell,,,['02IO008T1'],['Burst'],"Give an ally Challenger this round.
+Create a Fleeting Resonating Strike in hand.",
+02FR003,Freljord,Aurora Porealis,7,0,0,Epic,Spell,,,['01FR016'],['Burst'],Create 2 random Poros from any region and 2 Poro Snax.,

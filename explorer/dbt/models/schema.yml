@@ -1,0 +1,47 @@
+version: 2
+
+
+seeds:
+  - name: cards
+
+    description: Collection of available cards in Legend of Runeterra and their complete info
+
+    columns:
+      - name: code
+        description: Unique card id
+        tests:
+          - unique
+          - not_null
+
+      - name: region
+        description: Card region
+        tests:
+          - accepted_values:
+              values: ['PiltoverZaun', 'Freljord', 'Noxus', 'ShadowIsles', 'Ionia', 'Demacia']
+
+      - name: card_name
+        description: Card name
+
+      - name: cost
+        description: Card cost
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: "cost BETWEEN 0 AND 12"
+
+      - name: attack
+
+      - name: health
+
+      - name: rarity
+
+      - name: main_type
+
+      - name: subtype
+
+      - name: supertype
+
+      - name: associated_cards
+
+      - name: keywords
+
+      - name: description
